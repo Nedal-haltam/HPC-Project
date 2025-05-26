@@ -1,0 +1,12547 @@
+$date
+	Mon May 26 23:42:52 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Dff $end
+$var wire 32 ! Input [31:0] $end
+$var wire 1 " clk $end
+$var wire 1 # rst $end
+$var parameter 32 $ DefualtValue $end
+$var reg 32 % Output [31:0] $end
+$upscope $end
+$scope module TestBench $end
+$var reg 32 & Dim0InputLane0 [31:0] $end
+$var reg 32 ' InternalRegisterEnableIndex [31:0] $end
+$var reg 32 ( InternalRegisterInputValue0 [31:0] $end
+$var reg 32 ) InternalRegisterInputValue1 [31:0] $end
+$var reg 1 * clk $end
+$var reg 1 + rst $end
+$scope module dut $end
+$var wire 32 , Dim0InputLane0 [31:0] $end
+$var wire 32 - InternalRegisterEnableIndex [31:0] $end
+$var wire 32 . InternalRegisterInputValue0 [31:0] $end
+$var wire 32 / InternalRegisterInputValue1 [31:0] $end
+$var wire 32 0 PassThroughWires0Lane0 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var reg 32 1 i [31:0] $end
+$var integer 32 2 ii [31:0] $end
+$var integer 32 3 j [31:0] $end
+$scope begin Dim0IndexForLoopBlock[0] $end
+$var wire 32 4 InDim0Lane0 [31:0] $end
+$var parameter 2 5 Dim0Index $end
+$var parameter 32 6 PECount $end
+$scope module pe $end
+$var wire 32 7 InDim0Lane0 [31:0] $end
+$var wire 1 8 InternalRegisterEnable $end
+$var wire 32 9 InternalRegisterInputValue0 [31:0] $end
+$var wire 32 : InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 ; PECount $end
+$var reg 32 < InternalRegister0 [31:0] $end
+$var reg 32 = InternalRegister1 [31:0] $end
+$var reg 32 > OutDim0Lane0 [31:0] $end
+$var reg 32 ? PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[1] $end
+$var wire 32 @ InDim0Lane0 [31:0] $end
+$var parameter 2 A Dim0Index $end
+$var parameter 32 B PECount $end
+$scope module pe $end
+$var wire 32 C InDim0Lane0 [31:0] $end
+$var wire 1 D InternalRegisterEnable $end
+$var wire 32 E InternalRegisterInputValue0 [31:0] $end
+$var wire 32 F InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 G PECount $end
+$var reg 32 H InternalRegister0 [31:0] $end
+$var reg 32 I InternalRegister1 [31:0] $end
+$var reg 32 J OutDim0Lane0 [31:0] $end
+$var reg 32 K PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[2] $end
+$var wire 32 L InDim0Lane0 [31:0] $end
+$var parameter 3 M Dim0Index $end
+$var parameter 32 N PECount $end
+$scope module pe $end
+$var wire 32 O InDim0Lane0 [31:0] $end
+$var wire 1 P InternalRegisterEnable $end
+$var wire 32 Q InternalRegisterInputValue0 [31:0] $end
+$var wire 32 R InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 S PECount $end
+$var reg 32 T InternalRegister0 [31:0] $end
+$var reg 32 U InternalRegister1 [31:0] $end
+$var reg 32 V OutDim0Lane0 [31:0] $end
+$var reg 32 W PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[3] $end
+$var wire 32 X InDim0Lane0 [31:0] $end
+$var parameter 3 Y Dim0Index $end
+$var parameter 32 Z PECount $end
+$scope module pe $end
+$var wire 32 [ InDim0Lane0 [31:0] $end
+$var wire 1 \ InternalRegisterEnable $end
+$var wire 32 ] InternalRegisterInputValue0 [31:0] $end
+$var wire 32 ^ InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 _ PECount $end
+$var reg 32 ` InternalRegister0 [31:0] $end
+$var reg 32 a InternalRegister1 [31:0] $end
+$var reg 32 b OutDim0Lane0 [31:0] $end
+$var reg 32 c PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[4] $end
+$var wire 32 d InDim0Lane0 [31:0] $end
+$var parameter 4 e Dim0Index $end
+$var parameter 32 f PECount $end
+$scope module pe $end
+$var wire 32 g InDim0Lane0 [31:0] $end
+$var wire 1 h InternalRegisterEnable $end
+$var wire 32 i InternalRegisterInputValue0 [31:0] $end
+$var wire 32 j InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 k PECount $end
+$var reg 32 l InternalRegister0 [31:0] $end
+$var reg 32 m InternalRegister1 [31:0] $end
+$var reg 32 n OutDim0Lane0 [31:0] $end
+$var reg 32 o PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[5] $end
+$var wire 32 p InDim0Lane0 [31:0] $end
+$var parameter 4 q Dim0Index $end
+$var parameter 32 r PECount $end
+$scope module pe $end
+$var wire 32 s InDim0Lane0 [31:0] $end
+$var wire 1 t InternalRegisterEnable $end
+$var wire 32 u InternalRegisterInputValue0 [31:0] $end
+$var wire 32 v InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 w PECount $end
+$var reg 32 x InternalRegister0 [31:0] $end
+$var reg 32 y InternalRegister1 [31:0] $end
+$var reg 32 z OutDim0Lane0 [31:0] $end
+$var reg 32 { PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[6] $end
+$var wire 32 | InDim0Lane0 [31:0] $end
+$var parameter 4 } Dim0Index $end
+$var parameter 32 ~ PECount $end
+$scope module pe $end
+$var wire 32 !" InDim0Lane0 [31:0] $end
+$var wire 1 "" InternalRegisterEnable $end
+$var wire 32 #" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 $" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 %" PECount $end
+$var reg 32 &" InternalRegister0 [31:0] $end
+$var reg 32 '" InternalRegister1 [31:0] $end
+$var reg 32 (" OutDim0Lane0 [31:0] $end
+$var reg 32 )" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[7] $end
+$var wire 32 *" InDim0Lane0 [31:0] $end
+$var parameter 4 +" Dim0Index $end
+$var parameter 32 ," PECount $end
+$scope module pe $end
+$var wire 32 -" InDim0Lane0 [31:0] $end
+$var wire 1 ." InternalRegisterEnable $end
+$var wire 32 /" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 0" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 1" PECount $end
+$var reg 32 2" InternalRegister0 [31:0] $end
+$var reg 32 3" InternalRegister1 [31:0] $end
+$var reg 32 4" OutDim0Lane0 [31:0] $end
+$var reg 32 5" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[8] $end
+$var wire 32 6" InDim0Lane0 [31:0] $end
+$var parameter 5 7" Dim0Index $end
+$var parameter 32 8" PECount $end
+$scope module pe $end
+$var wire 32 9" InDim0Lane0 [31:0] $end
+$var wire 1 :" InternalRegisterEnable $end
+$var wire 32 ;" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 <" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 =" PECount $end
+$var reg 32 >" InternalRegister0 [31:0] $end
+$var reg 32 ?" InternalRegister1 [31:0] $end
+$var reg 32 @" OutDim0Lane0 [31:0] $end
+$var reg 32 A" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[9] $end
+$var wire 32 B" InDim0Lane0 [31:0] $end
+$var parameter 5 C" Dim0Index $end
+$var parameter 32 D" PECount $end
+$scope module pe $end
+$var wire 32 E" InDim0Lane0 [31:0] $end
+$var wire 1 F" InternalRegisterEnable $end
+$var wire 32 G" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 H" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 I" PECount $end
+$var reg 32 J" InternalRegister0 [31:0] $end
+$var reg 32 K" InternalRegister1 [31:0] $end
+$var reg 32 L" OutDim0Lane0 [31:0] $end
+$var reg 32 M" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[10] $end
+$var wire 32 N" InDim0Lane0 [31:0] $end
+$var parameter 5 O" Dim0Index $end
+$var parameter 32 P" PECount $end
+$scope module pe $end
+$var wire 32 Q" InDim0Lane0 [31:0] $end
+$var wire 1 R" InternalRegisterEnable $end
+$var wire 32 S" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 T" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 U" PECount $end
+$var reg 32 V" InternalRegister0 [31:0] $end
+$var reg 32 W" InternalRegister1 [31:0] $end
+$var reg 32 X" OutDim0Lane0 [31:0] $end
+$var reg 32 Y" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[11] $end
+$var wire 32 Z" InDim0Lane0 [31:0] $end
+$var parameter 5 [" Dim0Index $end
+$var parameter 32 \" PECount $end
+$scope module pe $end
+$var wire 32 ]" InDim0Lane0 [31:0] $end
+$var wire 1 ^" InternalRegisterEnable $end
+$var wire 32 _" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 `" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 a" PECount $end
+$var reg 32 b" InternalRegister0 [31:0] $end
+$var reg 32 c" InternalRegister1 [31:0] $end
+$var reg 32 d" OutDim0Lane0 [31:0] $end
+$var reg 32 e" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[12] $end
+$var wire 32 f" InDim0Lane0 [31:0] $end
+$var parameter 5 g" Dim0Index $end
+$var parameter 32 h" PECount $end
+$scope module pe $end
+$var wire 32 i" InDim0Lane0 [31:0] $end
+$var wire 1 j" InternalRegisterEnable $end
+$var wire 32 k" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 l" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 m" PECount $end
+$var reg 32 n" InternalRegister0 [31:0] $end
+$var reg 32 o" InternalRegister1 [31:0] $end
+$var reg 32 p" OutDim0Lane0 [31:0] $end
+$var reg 32 q" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[13] $end
+$var wire 32 r" InDim0Lane0 [31:0] $end
+$var parameter 5 s" Dim0Index $end
+$var parameter 32 t" PECount $end
+$scope module pe $end
+$var wire 32 u" InDim0Lane0 [31:0] $end
+$var wire 1 v" InternalRegisterEnable $end
+$var wire 32 w" InternalRegisterInputValue0 [31:0] $end
+$var wire 32 x" InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 y" PECount $end
+$var reg 32 z" InternalRegister0 [31:0] $end
+$var reg 32 {" InternalRegister1 [31:0] $end
+$var reg 32 |" OutDim0Lane0 [31:0] $end
+$var reg 32 }" PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[14] $end
+$var wire 32 ~" InDim0Lane0 [31:0] $end
+$var parameter 5 !# Dim0Index $end
+$var parameter 32 "# PECount $end
+$scope module pe $end
+$var wire 32 ## InDim0Lane0 [31:0] $end
+$var wire 1 $# InternalRegisterEnable $end
+$var wire 32 %# InternalRegisterInputValue0 [31:0] $end
+$var wire 32 &# InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 '# PECount $end
+$var reg 32 (# InternalRegister0 [31:0] $end
+$var reg 32 )# InternalRegister1 [31:0] $end
+$var reg 32 *# OutDim0Lane0 [31:0] $end
+$var reg 32 +# PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$scope begin Dim0IndexForLoopBlock[15] $end
+$var wire 32 ,# InDim0Lane0 [31:0] $end
+$var parameter 5 -# Dim0Index $end
+$var parameter 32 .# PECount $end
+$scope module pe $end
+$var wire 32 /# InDim0Lane0 [31:0] $end
+$var wire 1 0# InternalRegisterEnable $end
+$var wire 32 1# InternalRegisterInputValue0 [31:0] $end
+$var wire 32 2# InternalRegisterInputValue1 [31:0] $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 32 3# PECount $end
+$var reg 32 4# InternalRegister0 [31:0] $end
+$var reg 32 5# InternalRegister1 [31:0] $end
+$var reg 32 6# OutDim0Lane0 [31:0] $end
+$var reg 32 7# PEValue [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1111 3#
+b1111 .#
+b1111 -#
+b1110 '#
+b1110 "#
+b1110 !#
+b1101 y"
+b1101 t"
+b1101 s"
+b1100 m"
+b1100 h"
+b1100 g"
+b1011 a"
+b1011 \"
+b1011 ["
+b1010 U"
+b1010 P"
+b1010 O"
+b1001 I"
+b1001 D"
+b1001 C"
+b1000 ="
+b1000 8"
+b1000 7"
+b111 1"
+b111 ,"
+b111 +"
+b110 %"
+b110 ~
+b110 }
+b101 w
+b101 r
+b101 q
+b100 k
+b100 f
+b100 e
+b11 _
+b11 Z
+b11 Y
+b10 S
+b10 N
+b10 M
+b1 G
+b1 B
+b1 A
+b0 ;
+b0 6
+b0 5
+b0 $
+$end
+#0
+$dumpvars
+bx 7#
+bx 6#
+bx 5#
+bx 4#
+bx 2#
+bx 1#
+x0#
+bx /#
+bx ,#
+bx +#
+bx *#
+bx )#
+bx (#
+bx &#
+bx %#
+x$#
+bx ##
+bx ~"
+bx }"
+bx |"
+bx {"
+bx z"
+bx x"
+bx w"
+xv"
+bx u"
+bx r"
+bx q"
+bx p"
+bx o"
+bx n"
+bx l"
+bx k"
+xj"
+bx i"
+bx f"
+bx e"
+bx d"
+bx c"
+bx b"
+bx `"
+bx _"
+x^"
+bx ]"
+bx Z"
+bx Y"
+bx X"
+bx W"
+bx V"
+bx T"
+bx S"
+xR"
+bx Q"
+bx N"
+bx M"
+bx L"
+bx K"
+bx J"
+bx H"
+bx G"
+xF"
+bx E"
+bx B"
+bx A"
+bx @"
+bx ?"
+bx >"
+bx <"
+bx ;"
+x:"
+bx 9"
+bx 6"
+bx 5"
+bx 4"
+bx 3"
+bx 2"
+bx 0"
+bx /"
+x."
+bx -"
+bx *"
+bx )"
+bx ("
+bx '"
+bx &"
+bx $"
+bx #"
+x""
+bx !"
+bx |
+bx {
+bx z
+bx y
+bx x
+bx v
+bx u
+xt
+bx s
+bx p
+bx o
+bx n
+bx m
+bx l
+bx j
+bx i
+xh
+bx g
+bx d
+bx c
+bx b
+bx a
+bx `
+bx ^
+bx ]
+x\
+bx [
+bx X
+bx W
+bx V
+bx U
+bx T
+bx R
+bx Q
+xP
+bx O
+bx L
+bx K
+bx J
+bx I
+bx H
+bx F
+bx E
+xD
+bx C
+bx @
+bx ?
+bx >
+bx =
+bx <
+bx :
+bx 9
+x8
+bx 7
+bx 4
+bx 3
+bx 2
+b0 1
+bx 0
+bx /
+bx .
+bx -
+bx ,
+0+
+0*
+bx )
+bx (
+bx '
+bx &
+bx %
+z#
+z"
+bz !
+$end
+#1
+b1 1
+1*
+#2
+0*
+1+
+#3
+b0 7#
+b0 6#
+b0 +#
+b0 *#
+b0 }"
+b0 |"
+b0 q"
+b0 p"
+b0 e"
+b0 d"
+b0 Y"
+b0 X"
+b0 M"
+b0 L"
+b0 A"
+b0 @"
+b0 5"
+b0 4"
+b0 )"
+b0 ("
+b0 {
+b0 z
+b0 o
+b0 n
+b0 c
+b0 b
+b0 W
+b0 V
+b0 K
+b0 J
+b0 ?
+b0 >
+b0 1
+b10000 2
+1*
+#4
+0*
+#5
+b10000 2
+1*
+#6
+0*
+b1 )
+b1 /
+b1 :
+b1 F
+b1 R
+b1 ^
+b1 j
+b1 v
+b1 $"
+b1 0"
+b1 <"
+b1 H"
+b1 T"
+b1 `"
+b1 l"
+b1 x"
+b1 &#
+b1 2#
+b0 (
+b0 .
+b0 9
+b0 E
+b0 Q
+b0 ]
+b0 i
+b0 u
+b0 #"
+b0 /"
+b0 ;"
+b0 G"
+b0 S"
+b0 _"
+b0 k"
+b0 w"
+b0 %#
+b0 1#
+18
+0D
+0P
+0\
+0h
+0t
+0""
+0."
+0:"
+0F"
+0R"
+0^"
+0j"
+0v"
+0$#
+00#
+b1 '
+b1 -
+1+
+#7
+b1 =
+b0 <
+b10000 2
+1*
+#8
+0*
+b10 )
+b10 /
+b10 :
+b10 F
+b10 R
+b10 ^
+b10 j
+b10 v
+b10 $"
+b10 0"
+b10 <"
+b10 H"
+b10 T"
+b10 `"
+b10 l"
+b10 x"
+b10 &#
+b10 2#
+b1 (
+b1 .
+b1 9
+b1 E
+b1 Q
+b1 ]
+b1 i
+b1 u
+b1 #"
+b1 /"
+b1 ;"
+b1 G"
+b1 S"
+b1 _"
+b1 k"
+b1 w"
+b1 %#
+b1 1#
+08
+1D
+b10 '
+b10 -
+#9
+b10 I
+b1 H
+b10000 2
+1*
+#10
+0*
+b11 )
+b11 /
+b11 :
+b11 F
+b11 R
+b11 ^
+b11 j
+b11 v
+b11 $"
+b11 0"
+b11 <"
+b11 H"
+b11 T"
+b11 `"
+b11 l"
+b11 x"
+b11 &#
+b11 2#
+b10 (
+b10 .
+b10 9
+b10 E
+b10 Q
+b10 ]
+b10 i
+b10 u
+b10 #"
+b10 /"
+b10 ;"
+b10 G"
+b10 S"
+b10 _"
+b10 k"
+b10 w"
+b10 %#
+b10 1#
+0D
+1P
+b11 '
+b11 -
+#11
+b11 U
+b10 T
+b10000 2
+1*
+#12
+0*
+b100 )
+b100 /
+b100 :
+b100 F
+b100 R
+b100 ^
+b100 j
+b100 v
+b100 $"
+b100 0"
+b100 <"
+b100 H"
+b100 T"
+b100 `"
+b100 l"
+b100 x"
+b100 &#
+b100 2#
+b11 (
+b11 .
+b11 9
+b11 E
+b11 Q
+b11 ]
+b11 i
+b11 u
+b11 #"
+b11 /"
+b11 ;"
+b11 G"
+b11 S"
+b11 _"
+b11 k"
+b11 w"
+b11 %#
+b11 1#
+0P
+1\
+b100 '
+b100 -
+#13
+b100 a
+b11 `
+b10000 2
+1*
+#14
+0*
+b101 )
+b101 /
+b101 :
+b101 F
+b101 R
+b101 ^
+b101 j
+b101 v
+b101 $"
+b101 0"
+b101 <"
+b101 H"
+b101 T"
+b101 `"
+b101 l"
+b101 x"
+b101 &#
+b101 2#
+b100 (
+b100 .
+b100 9
+b100 E
+b100 Q
+b100 ]
+b100 i
+b100 u
+b100 #"
+b100 /"
+b100 ;"
+b100 G"
+b100 S"
+b100 _"
+b100 k"
+b100 w"
+b100 %#
+b100 1#
+0\
+1h
+b101 '
+b101 -
+#15
+b101 m
+b100 l
+b10000 2
+1*
+#16
+0*
+b110 )
+b110 /
+b110 :
+b110 F
+b110 R
+b110 ^
+b110 j
+b110 v
+b110 $"
+b110 0"
+b110 <"
+b110 H"
+b110 T"
+b110 `"
+b110 l"
+b110 x"
+b110 &#
+b110 2#
+b101 (
+b101 .
+b101 9
+b101 E
+b101 Q
+b101 ]
+b101 i
+b101 u
+b101 #"
+b101 /"
+b101 ;"
+b101 G"
+b101 S"
+b101 _"
+b101 k"
+b101 w"
+b101 %#
+b101 1#
+0h
+1t
+b110 '
+b110 -
+#17
+b110 y
+b101 x
+b10000 2
+1*
+#18
+0*
+b111 )
+b111 /
+b111 :
+b111 F
+b111 R
+b111 ^
+b111 j
+b111 v
+b111 $"
+b111 0"
+b111 <"
+b111 H"
+b111 T"
+b111 `"
+b111 l"
+b111 x"
+b111 &#
+b111 2#
+b110 (
+b110 .
+b110 9
+b110 E
+b110 Q
+b110 ]
+b110 i
+b110 u
+b110 #"
+b110 /"
+b110 ;"
+b110 G"
+b110 S"
+b110 _"
+b110 k"
+b110 w"
+b110 %#
+b110 1#
+0t
+1""
+b111 '
+b111 -
+#19
+b111 '"
+b110 &"
+b10000 2
+1*
+#20
+0*
+b1000 )
+b1000 /
+b1000 :
+b1000 F
+b1000 R
+b1000 ^
+b1000 j
+b1000 v
+b1000 $"
+b1000 0"
+b1000 <"
+b1000 H"
+b1000 T"
+b1000 `"
+b1000 l"
+b1000 x"
+b1000 &#
+b1000 2#
+b111 (
+b111 .
+b111 9
+b111 E
+b111 Q
+b111 ]
+b111 i
+b111 u
+b111 #"
+b111 /"
+b111 ;"
+b111 G"
+b111 S"
+b111 _"
+b111 k"
+b111 w"
+b111 %#
+b111 1#
+0""
+1."
+b1000 '
+b1000 -
+#21
+b1000 3"
+b111 2"
+b10000 2
+1*
+#22
+0*
+b1001 )
+b1001 /
+b1001 :
+b1001 F
+b1001 R
+b1001 ^
+b1001 j
+b1001 v
+b1001 $"
+b1001 0"
+b1001 <"
+b1001 H"
+b1001 T"
+b1001 `"
+b1001 l"
+b1001 x"
+b1001 &#
+b1001 2#
+b1000 (
+b1000 .
+b1000 9
+b1000 E
+b1000 Q
+b1000 ]
+b1000 i
+b1000 u
+b1000 #"
+b1000 /"
+b1000 ;"
+b1000 G"
+b1000 S"
+b1000 _"
+b1000 k"
+b1000 w"
+b1000 %#
+b1000 1#
+0."
+1:"
+b1001 '
+b1001 -
+#23
+b1001 ?"
+b1000 >"
+b10000 2
+1*
+#24
+0*
+b1010 )
+b1010 /
+b1010 :
+b1010 F
+b1010 R
+b1010 ^
+b1010 j
+b1010 v
+b1010 $"
+b1010 0"
+b1010 <"
+b1010 H"
+b1010 T"
+b1010 `"
+b1010 l"
+b1010 x"
+b1010 &#
+b1010 2#
+b1001 (
+b1001 .
+b1001 9
+b1001 E
+b1001 Q
+b1001 ]
+b1001 i
+b1001 u
+b1001 #"
+b1001 /"
+b1001 ;"
+b1001 G"
+b1001 S"
+b1001 _"
+b1001 k"
+b1001 w"
+b1001 %#
+b1001 1#
+0:"
+1F"
+b1010 '
+b1010 -
+#25
+b1010 K"
+b1001 J"
+b10000 2
+1*
+#26
+0*
+b1011 )
+b1011 /
+b1011 :
+b1011 F
+b1011 R
+b1011 ^
+b1011 j
+b1011 v
+b1011 $"
+b1011 0"
+b1011 <"
+b1011 H"
+b1011 T"
+b1011 `"
+b1011 l"
+b1011 x"
+b1011 &#
+b1011 2#
+b1010 (
+b1010 .
+b1010 9
+b1010 E
+b1010 Q
+b1010 ]
+b1010 i
+b1010 u
+b1010 #"
+b1010 /"
+b1010 ;"
+b1010 G"
+b1010 S"
+b1010 _"
+b1010 k"
+b1010 w"
+b1010 %#
+b1010 1#
+0F"
+1R"
+b1011 '
+b1011 -
+#27
+b1011 W"
+b1010 V"
+b10000 2
+1*
+#28
+0*
+b1100 )
+b1100 /
+b1100 :
+b1100 F
+b1100 R
+b1100 ^
+b1100 j
+b1100 v
+b1100 $"
+b1100 0"
+b1100 <"
+b1100 H"
+b1100 T"
+b1100 `"
+b1100 l"
+b1100 x"
+b1100 &#
+b1100 2#
+b1011 (
+b1011 .
+b1011 9
+b1011 E
+b1011 Q
+b1011 ]
+b1011 i
+b1011 u
+b1011 #"
+b1011 /"
+b1011 ;"
+b1011 G"
+b1011 S"
+b1011 _"
+b1011 k"
+b1011 w"
+b1011 %#
+b1011 1#
+0R"
+1^"
+b1100 '
+b1100 -
+#29
+b1100 c"
+b1011 b"
+b10000 2
+1*
+#30
+0*
+b1101 )
+b1101 /
+b1101 :
+b1101 F
+b1101 R
+b1101 ^
+b1101 j
+b1101 v
+b1101 $"
+b1101 0"
+b1101 <"
+b1101 H"
+b1101 T"
+b1101 `"
+b1101 l"
+b1101 x"
+b1101 &#
+b1101 2#
+b1100 (
+b1100 .
+b1100 9
+b1100 E
+b1100 Q
+b1100 ]
+b1100 i
+b1100 u
+b1100 #"
+b1100 /"
+b1100 ;"
+b1100 G"
+b1100 S"
+b1100 _"
+b1100 k"
+b1100 w"
+b1100 %#
+b1100 1#
+0^"
+1j"
+b1101 '
+b1101 -
+#31
+b1101 o"
+b1100 n"
+b10000 2
+1*
+#32
+0*
+b1110 )
+b1110 /
+b1110 :
+b1110 F
+b1110 R
+b1110 ^
+b1110 j
+b1110 v
+b1110 $"
+b1110 0"
+b1110 <"
+b1110 H"
+b1110 T"
+b1110 `"
+b1110 l"
+b1110 x"
+b1110 &#
+b1110 2#
+b1101 (
+b1101 .
+b1101 9
+b1101 E
+b1101 Q
+b1101 ]
+b1101 i
+b1101 u
+b1101 #"
+b1101 /"
+b1101 ;"
+b1101 G"
+b1101 S"
+b1101 _"
+b1101 k"
+b1101 w"
+b1101 %#
+b1101 1#
+0j"
+1v"
+b1110 '
+b1110 -
+#33
+b1110 {"
+b1101 z"
+b10000 2
+1*
+#34
+0*
+b1111 )
+b1111 /
+b1111 :
+b1111 F
+b1111 R
+b1111 ^
+b1111 j
+b1111 v
+b1111 $"
+b1111 0"
+b1111 <"
+b1111 H"
+b1111 T"
+b1111 `"
+b1111 l"
+b1111 x"
+b1111 &#
+b1111 2#
+b1110 (
+b1110 .
+b1110 9
+b1110 E
+b1110 Q
+b1110 ]
+b1110 i
+b1110 u
+b1110 #"
+b1110 /"
+b1110 ;"
+b1110 G"
+b1110 S"
+b1110 _"
+b1110 k"
+b1110 w"
+b1110 %#
+b1110 1#
+0v"
+1$#
+b1111 '
+b1111 -
+#35
+b1111 )#
+b1110 (#
+b10000 2
+1*
+#36
+0*
+b10000 )
+b10000 /
+b10000 :
+b10000 F
+b10000 R
+b10000 ^
+b10000 j
+b10000 v
+b10000 $"
+b10000 0"
+b10000 <"
+b10000 H"
+b10000 T"
+b10000 `"
+b10000 l"
+b10000 x"
+b10000 &#
+b10000 2#
+b1111 (
+b1111 .
+b1111 9
+b1111 E
+b1111 Q
+b1111 ]
+b1111 i
+b1111 u
+b1111 #"
+b1111 /"
+b1111 ;"
+b1111 G"
+b1111 S"
+b1111 _"
+b1111 k"
+b1111 w"
+b1111 %#
+b1111 1#
+0$#
+10#
+b10000 '
+b10000 -
+#37
+b10000 5#
+b1111 4#
+b10000 2
+1*
+#38
+0*
+b0 4
+b0 7
+b0 @
+b0 C
+b0 L
+b0 O
+b0 X
+b0 [
+b0 d
+b0 g
+b0 p
+b0 s
+b0 |
+b0 !"
+b0 *"
+b0 -"
+b0 6"
+b0 9"
+b0 B"
+b0 E"
+b0 N"
+b0 Q"
+b0 Z"
+b0 ]"
+b0 f"
+b0 i"
+b0 r"
+b0 u"
+b0 ~"
+b0 ##
+b0 ,#
+b0 /#
+b0 0
+b0 &
+b0 ,
+0+
+#39
+b10000 7#
+b1111 +#
+b1110 }"
+b1101 q"
+b1100 e"
+b1011 Y"
+b1010 M"
+b1001 A"
+b1000 5"
+b111 )"
+b110 {
+b101 o
+b100 c
+b11 W
+b10 K
+b1 ?
+b1 1
+1*
+#40
+0*
+b1 4
+b1 7
+b1 @
+b1 C
+b1 L
+b1 O
+b1 X
+b1 [
+b1 d
+b1 g
+b1 p
+b1 s
+b1 |
+b1 !"
+b1 *"
+b1 -"
+b1 6"
+b1 9"
+b1 B"
+b1 E"
+b1 N"
+b1 Q"
+b1 Z"
+b1 ]"
+b1 f"
+b1 i"
+b1 r"
+b1 u"
+b1 ~"
+b1 ##
+b1 ,#
+b1 /#
+b1 0
+b1 &
+b1 ,
+#41
+b1 >
+b1 J
+b1100101110011 K
+b1 V
+b1011010001111 W
+b1 b
+b1000010111101 c
+b1 n
+b11000010001 o
+b1 z
+b101001111111 {
+b1 ("
+b1101011010111 )"
+b1 4"
+b1000001111000 5"
+b1 @"
+b1110111111000 A"
+b1 L"
+b1011011000110 M"
+b1 X"
+b11101001100 Y"
+b1 d"
+b100111001011 e"
+b1 p"
+b100000111011 q"
+b1 |"
+b1100110000100 }"
+b1 *#
+b101100010001 +#
+b1 6#
+b1101100010010 7#
+b10 1
+1*
+#42
+0*
+b10 4
+b10 7
+b10 @
+b10 C
+b10 L
+b10 O
+b10 X
+b10 [
+b10 d
+b10 g
+b10 p
+b10 s
+b10 |
+b10 !"
+b10 *"
+b10 -"
+b10 6"
+b10 9"
+b10 B"
+b10 E"
+b10 N"
+b10 Q"
+b10 Z"
+b10 ]"
+b10 f"
+b10 i"
+b10 r"
+b10 u"
+b10 ~"
+b10 ##
+b10 ,#
+b10 /#
+b10 0
+b10 &
+b10 ,
+#43
+b10 6#
+b111111001110 7#
+b10 *#
+b101111001110 +#
+b10 |"
+b111010111110 }"
+b10 p"
+b1110111110100 q"
+b10 d"
+b1100100110 e"
+b10 X"
+b1100101011001 Y"
+b10 L"
+b111100110000 M"
+b10 @"
+b1001 A"
+b10 4"
+b11111100111 5"
+b10 ("
+b1101110000011 )"
+b10 z
+b111011100100 {
+b10 n
+b1110111111100 o
+b10 b
+b101100001101 c
+b10 V
+b100110100100 W
+b10 J
+b111100001010 K
+b10 >
+b11 1
+1*
+#44
+0*
+b11 4
+b11 7
+b11 @
+b11 C
+b11 L
+b11 O
+b11 X
+b11 [
+b11 d
+b11 g
+b11 p
+b11 s
+b11 |
+b11 !"
+b11 *"
+b11 -"
+b11 6"
+b11 9"
+b11 B"
+b11 E"
+b11 N"
+b11 Q"
+b11 Z"
+b11 ]"
+b11 f"
+b11 i"
+b11 r"
+b11 u"
+b11 ~"
+b11 ##
+b11 ,#
+b11 /#
+b11 0
+b11 &
+b11 ,
+#45
+b11 >
+b11 J
+b1011101011111 K
+b11 V
+b111111001010 W
+b11 b
+b100100011100 c
+b11 n
+b1011111110000 o
+b11 z
+b1000110100111 {
+b11 ("
+b1011010100010 )"
+b11 4"
+b1011111111111 5"
+b11 @"
+b1110111111000 A"
+b11 L"
+b1100101001 M"
+b11 X"
+b1011000011110 Y"
+b11 d"
+b1010101101 e"
+b11 p"
+b1010111000110 q"
+b11 |"
+b1110011010010 }"
+b11 *#
+b11100111001 +#
+b11 6#
+b110000000100 7#
+b100 1
+1*
+#46
+0*
+b100 4
+b100 7
+b100 @
+b100 C
+b100 L
+b100 O
+b100 X
+b100 [
+b100 d
+b100 g
+b100 p
+b100 s
+b100 |
+b100 !"
+b100 *"
+b100 -"
+b100 6"
+b100 9"
+b100 B"
+b100 E"
+b100 N"
+b100 Q"
+b100 Z"
+b100 ]"
+b100 f"
+b100 i"
+b100 r"
+b100 u"
+b100 ~"
+b100 ##
+b100 ,#
+b100 /#
+b100 0
+b100 &
+b100 ,
+#47
+b100 6#
+b1110010011000 7#
+b100 *#
+b1110111110010 +#
+b100 |"
+b10011111100 }"
+b100 p"
+b1101 q"
+b100 d"
+b1010101110010 e"
+b100 X"
+b1110111110110 Y"
+b100 L"
+b110000100010 M"
+b100 @"
+b1001 A"
+b100 4"
+b111001001100 5"
+b100 ("
+b1110111111010 )"
+b100 z
+b1001101001000 {
+b100 n
+b101 o
+b100 b
+b11100100110 c
+b100 V
+b1110111111110 W
+b100 J
+b1101001101110 K
+b100 >
+b101 1
+1*
+#48
+0*
+b101 4
+b101 7
+b101 @
+b101 C
+b101 L
+b101 O
+b101 X
+b101 [
+b101 d
+b101 g
+b101 p
+b101 s
+b101 |
+b101 !"
+b101 *"
+b101 -"
+b101 6"
+b101 9"
+b101 B"
+b101 E"
+b101 N"
+b101 Q"
+b101 Z"
+b101 ]"
+b101 f"
+b101 i"
+b101 r"
+b101 u"
+b101 ~"
+b101 ##
+b101 ,#
+b101 /#
+b101 0
+b101 &
+b101 ,
+#49
+b101 >
+b101 J
+b110110000000 K
+b101 V
+b11101110010 W
+b101 b
+b1010111000101 c
+b101 n
+b11000010001 o
+b101 z
+b110110101010 {
+b101 ("
+b1100101010 )"
+b101 4"
+b1101111001 5"
+b101 @"
+b1110111111000 A"
+b101 L"
+b1011010000011 M"
+b101 X"
+b1011010110101 Y"
+b101 d"
+b1100010110100 e"
+b101 p"
+b100000111011 q"
+b101 |"
+b1110000100000 }"
+b101 *#
+b1001011110000 +#
+b101 6#
+b1011100001111 7#
+b110 1
+1*
+#50
+0*
+b110 4
+b110 7
+b110 @
+b110 C
+b110 L
+b110 O
+b110 X
+b110 [
+b110 d
+b110 g
+b110 p
+b110 s
+b110 |
+b110 !"
+b110 *"
+b110 -"
+b110 6"
+b110 9"
+b110 B"
+b110 E"
+b110 N"
+b110 Q"
+b110 Z"
+b110 ]"
+b110 f"
+b110 i"
+b110 r"
+b110 u"
+b110 ~"
+b110 ##
+b110 ,#
+b110 /#
+b110 0
+b110 &
+b110 ,
+#51
+b110 6#
+b1110110110101 7#
+b110 *#
+b1001000110011 +#
+b110 |"
+b11001010100 }"
+b110 p"
+b1110111110100 q"
+b110 d"
+b111001 e"
+b110 X"
+b10010101000 Y"
+b110 L"
+b110010100000 M"
+b110 @"
+b1001 A"
+b110 4"
+b1110111011011 5"
+b110 ("
+b1001111110 )"
+b110 z
+b1110001101110 {
+b110 n
+b1110111111100 o
+b110 b
+b10011 c
+b110 V
+b1010001011101 W
+b110 J
+b1010010000111 K
+b110 >
+b111 1
+1*
+#52
+0*
+b111 4
+b111 7
+b111 @
+b111 C
+b111 L
+b111 O
+b111 X
+b111 [
+b111 d
+b111 g
+b111 p
+b111 s
+b111 |
+b111 !"
+b111 *"
+b111 -"
+b111 6"
+b111 9"
+b111 B"
+b111 E"
+b111 N"
+b111 Q"
+b111 Z"
+b111 ]"
+b111 f"
+b111 i"
+b111 r"
+b111 u"
+b111 ~"
+b111 ##
+b111 ,#
+b111 /#
+b111 0
+b111 &
+b111 ,
+#53
+b111 >
+b111 J
+b10000011110 K
+b111 V
+b111000110111 W
+b111 b
+b1101100000000 c
+b111 n
+b1011111110000 o
+b111 z
+b101000011011 {
+b111 ("
+b11101011111 )"
+b111 4"
+b101111001001 5"
+b111 @"
+b1110111111000 A"
+b111 L"
+b100101101011 M"
+b111 X"
+b11111100011 Y"
+b111 d"
+b100100000011 e"
+b111 p"
+b1010111000110 q"
+b111 |"
+b1000001101101 }"
+b111 *#
+b1011011001000 +#
+b111 6#
+b11001101111 7#
+b1000 1
+1*
+#54
+0*
+b1000 4
+b1000 7
+b1000 @
+b1000 C
+b1000 L
+b1000 O
+b1000 X
+b1000 [
+b1000 d
+b1000 g
+b1000 p
+b1000 s
+b1000 |
+b1000 !"
+b1000 *"
+b1000 -"
+b1000 6"
+b1000 9"
+b1000 B"
+b1000 E"
+b1000 N"
+b1000 Q"
+b1000 Z"
+b1000 ]"
+b1000 f"
+b1000 i"
+b1000 r"
+b1000 u"
+b1000 ~"
+b1000 ##
+b1000 ,#
+b1000 /#
+b1000 0
+b1000 &
+b1000 ,
+#55
+b1000 6#
+b1110111110001 7#
+b1000 *#
+b1111 +#
+b1000 |"
+b1110111110011 }"
+b1000 p"
+b1101 q"
+b1000 d"
+b1110111110101 e"
+b1000 X"
+b1011 Y"
+b1000 L"
+b1110111110111 M"
+b1000 @"
+b1001 A"
+b1000 4"
+b1110111111001 5"
+b1000 ("
+b111 )"
+b1000 z
+b1110111111011 {
+b1000 n
+b101 o
+b1000 b
+b1110111111101 c
+b1000 V
+b11 W
+b1000 J
+b1110111111111 K
+b1000 >
+b1001 1
+1*
+#56
+0*
+b1001 4
+b1001 7
+b1001 @
+b1001 C
+b1001 L
+b1001 O
+b1001 X
+b1001 [
+b1001 d
+b1001 g
+b1001 p
+b1001 s
+b1001 |
+b1001 !"
+b1001 *"
+b1001 -"
+b1001 6"
+b1001 9"
+b1001 B"
+b1001 E"
+b1001 N"
+b1001 Q"
+b1001 Z"
+b1001 ]"
+b1001 f"
+b1001 i"
+b1001 r"
+b1001 u"
+b1001 ~"
+b1001 ##
+b1001 ,#
+b1001 /#
+b1001 0
+b1001 &
+b1001 ,
+#57
+b1001 >
+b1001 J
+b10010001110 K
+b1001 V
+b1011010001111 W
+b1001 b
+b110101000100 c
+b1001 n
+b11000010001 o
+b1001 z
+b1001110000010 {
+b1001 ("
+b1101011010111 )"
+b1001 4"
+b110110001001 5"
+b1001 @"
+b1110111111000 A"
+b1001 L"
+b11100111011 M"
+b1001 X"
+b11101001100 Y"
+b1001 d"
+b1010000110110 e"
+b1001 p"
+b100000111011 q"
+b1001 |"
+b10001111101 }"
+b1001 *#
+b101100010001 +#
+b1001 6#
+b1011101111 7#
+b1010 1
+1*
+#58
+0*
+b1010 4
+b1010 7
+b1010 @
+b1010 C
+b1010 L
+b1010 O
+b1010 X
+b1010 [
+b1010 d
+b1010 g
+b1010 p
+b1010 s
+b1010 |
+b1010 !"
+b1010 *"
+b1010 -"
+b1010 6"
+b1010 9"
+b1010 B"
+b1010 E"
+b1010 N"
+b1010 Q"
+b1010 Z"
+b1010 ]"
+b1010 f"
+b1010 i"
+b1010 r"
+b1010 u"
+b1010 ~"
+b1010 ##
+b1010 ,#
+b1010 /#
+b1010 0
+b1010 &
+b1010 ,
+#59
+b1010 6#
+b111000110011 7#
+b1010 *#
+b101111001110 +#
+b1010 |"
+b111101000011 }"
+b1010 p"
+b1110111110100 q"
+b1010 d"
+b1101011011011 e"
+b1010 X"
+b1100101011001 Y"
+b1010 L"
+b111011010001 M"
+b1010 @"
+b1001 A"
+b1010 4"
+b1011000011010 5"
+b1010 ("
+b1101110000011 )"
+b1010 z
+b111100011101 {
+b1010 n
+b1110111111100 o
+b1010 b
+b1001011110100 c
+b1010 V
+b100110100100 W
+b1010 J
+b111011110111 K
+b1010 >
+b1011 1
+1*
+#60
+0*
+b1011 4
+b1011 7
+b1011 @
+b1011 C
+b1011 L
+b1011 O
+b1011 X
+b1011 [
+b1011 d
+b1011 g
+b1011 p
+b1011 s
+b1011 |
+b1011 !"
+b1011 *"
+b1011 -"
+b1011 6"
+b1011 9"
+b1011 B"
+b1011 E"
+b1011 N"
+b1011 Q"
+b1011 Z"
+b1011 ]"
+b1011 f"
+b1011 i"
+b1011 r"
+b1011 u"
+b1011 ~"
+b1011 ##
+b1011 ,#
+b1011 /#
+b1011 0
+b1011 &
+b1011 ,
+#61
+b1011 >
+b1011 J
+b11010100010 K
+b1011 V
+b111111001010 W
+b1011 b
+b1010011100101 c
+b1011 n
+b1011111110000 o
+b1011 z
+b110001011010 {
+b1011 ("
+b1011010100010 )"
+b1011 4"
+b11000000010 5"
+b1011 @"
+b1110111111000 A"
+b1011 L"
+b1101011011000 M"
+b1011 X"
+b1011000011110 Y"
+b1011 d"
+b1101101010100 e"
+b1011 p"
+b1010111000110 q"
+b1011 |"
+b100101111 }"
+b1011 *#
+b11100111001 +#
+b1011 6#
+b1000111111101 7#
+b1100 1
+1*
+#62
+0*
+b1100 4
+b1100 7
+b1100 @
+b1100 C
+b1100 L
+b1100 O
+b1100 X
+b1100 [
+b1100 d
+b1100 g
+b1100 p
+b1100 s
+b1100 |
+b1100 !"
+b1100 *"
+b1100 -"
+b1100 6"
+b1100 9"
+b1100 B"
+b1100 E"
+b1100 N"
+b1100 Q"
+b1100 Z"
+b1100 ]"
+b1100 f"
+b1100 i"
+b1100 r"
+b1100 u"
+b1100 ~"
+b1100 ##
+b1100 ,#
+b1100 /#
+b1100 0
+b1100 &
+b1100 ,
+#63
+b1100 6#
+b101101001 7#
+b1100 *#
+b1110111110010 +#
+b1100 |"
+b1100100000101 }"
+b1100 p"
+b1101 q"
+b1100 d"
+b100010001111 e"
+b1100 X"
+b1110111110110 Y"
+b1100 L"
+b1000111011111 M"
+b1100 @"
+b1001 A"
+b1100 4"
+b111110110101 5"
+b1100 ("
+b1110111111010 )"
+b1100 z
+b101010111001 {
+b1100 n
+b101 o
+b1100 b
+b1011011011011 c
+b1100 V
+b1110111111110 W
+b1100 J
+b1110010011 K
+b1100 >
+b1101 1
+1*
+#64
+0*
+b1101 4
+b1101 7
+b1101 @
+b1101 C
+b1101 L
+b1101 O
+b1101 X
+b1101 [
+b1101 d
+b1101 g
+b1101 p
+b1101 s
+b1101 |
+b1101 !"
+b1101 *"
+b1101 -"
+b1101 6"
+b1101 9"
+b1101 B"
+b1101 E"
+b1101 N"
+b1101 Q"
+b1101 Z"
+b1101 ]"
+b1101 f"
+b1101 i"
+b1101 r"
+b1101 u"
+b1101 ~"
+b1101 ##
+b1101 ,#
+b1101 /#
+b1101 0
+b1101 &
+b1101 ,
+#65
+b1101 >
+b1101 J
+b1000010000001 K
+b1101 V
+b11101110010 W
+b1101 b
+b100000111100 c
+b1101 n
+b11000010001 o
+b1101 z
+b1000001010111 {
+b1101 ("
+b1100101010 )"
+b1101 4"
+b1101010001000 5"
+b1101 @"
+b1110111111000 A"
+b1101 L"
+b11101111110 M"
+b1101 X"
+b1011010110101 Y"
+b1101 d"
+b10101001101 e"
+b1101 p"
+b100000111011 q"
+b1101 |"
+b111100001 }"
+b1101 *#
+b1001011110000 +#
+b1101 6#
+b11011110010 7#
+b1110 1
+1*
+#66
+0*
+b1110 4
+b1110 7
+b1110 @
+b1110 C
+b1110 L
+b1110 O
+b1110 X
+b1110 [
+b1110 d
+b1110 g
+b1110 p
+b1110 s
+b1110 |
+b1110 !"
+b1110 *"
+b1110 -"
+b1110 6"
+b1110 9"
+b1110 B"
+b1110 E"
+b1110 N"
+b1110 Q"
+b1110 Z"
+b1110 ]"
+b1110 f"
+b1110 i"
+b1110 r"
+b1110 u"
+b1110 ~"
+b1110 ##
+b1110 ,#
+b1110 /#
+b1110 0
+b1110 &
+b1110 ,
+#67
+b1110 6#
+b1001100 7#
+b1110 *#
+b1001000110011 +#
+b1110 |"
+b1011110101101 }"
+b1110 p"
+b1110111110100 q"
+b1110 d"
+b1110111001000 e"
+b1110 X"
+b10010101000 Y"
+b1110 L"
+b1000101100001 M"
+b1110 @"
+b1001 A"
+b1110 4"
+b100110 5"
+b1110 ("
+b1001111110 )"
+b1110 z
+b110010011 {
+b1110 n
+b1110111111100 o
+b1110 b
+b1110111101110 c
+b1110 V
+b1010001011101 W
+b1110 J
+b100101111010 K
+b1110 >
+b1111 1
+1*
+#68
+0*
+b1111 4
+b1111 7
+b1111 @
+b1111 C
+b1111 L
+b1111 O
+b1111 X
+b1111 [
+b1111 d
+b1111 g
+b1111 p
+b1111 s
+b1111 |
+b1111 !"
+b1111 *"
+b1111 -"
+b1111 6"
+b1111 9"
+b1111 B"
+b1111 E"
+b1111 N"
+b1111 Q"
+b1111 Z"
+b1111 ]"
+b1111 f"
+b1111 i"
+b1111 r"
+b1111 u"
+b1111 ~"
+b1111 ##
+b1111 ,#
+b1111 /#
+b1111 0
+b1111 &
+b1111 ,
+#69
+b1111 >
+b1111 J
+b1100111100011 K
+b1111 V
+b111000110111 W
+b1111 b
+b1100000001 c
+b1111 n
+b1011111110000 o
+b1111 z
+b1001111100110 {
+b1111 ("
+b11101011111 )"
+b1111 4"
+b1001000111000 5"
+b1111 @"
+b1110111111000 A"
+b1111 L"
+b1010010010110 M"
+b1111 X"
+b11111100011 Y"
+b1111 d"
+b1010011111110 e"
+b1111 p"
+b1010111000110 q"
+b1111 |"
+b110110010100 }"
+b1111 *#
+b1011011001000 +#
+b1111 6#
+b1011110010010 7#
+b10000 1
+1*
+#70
+0*
+b0 4
+b0 7
+b0 @
+b0 C
+b0 L
+b0 O
+b0 X
+b0 [
+b0 d
+b0 g
+b0 p
+b0 s
+b0 |
+b0 !"
+b0 *"
+b0 -"
+b0 6"
+b0 9"
+b0 B"
+b0 E"
+b0 N"
+b0 Q"
+b0 Z"
+b0 ]"
+b0 f"
+b0 i"
+b0 r"
+b0 u"
+b0 ~"
+b0 ##
+b0 ,#
+b0 /#
+b0 0
+b0 &
+b0 ,
+#71
+b0 6#
+b10000 7#
+b0 *#
+b1111 +#
+b0 |"
+b1110 }"
+b0 p"
+b1101 q"
+b0 d"
+b1100 e"
+b0 X"
+b1011 Y"
+b0 L"
+b1010 M"
+b0 @"
+b1001 A"
+b0 4"
+b1000 5"
+b0 ("
+b111 )"
+b0 z
+b110 {
+b0 n
+b101 o
+b0 b
+b100 c
+b0 V
+b11 W
+b0 J
+b10 K
+b0 >
+b10001 1
+1*
+#72
+0*
+#73
+b10010 1
+1*
+#74
+0*
+#75
+b10011 1
+1*
+#76
+0*
+#77
+b10100 1
+1*
+#78
+0*
+#79
+b10101 1
+1*
+#80
+0*
+#81
+b10110 1
+1*
+#82
+0*
+#83
+b10111 1
+1*
+#84
+0*
+#85
+b11000 1
+1*
+#86
+0*
+#87
+b11001 1
+1*
+#88
+0*
+#89
+b11010 1
+1*
+#90
+0*
+#91
+b11011 1
+1*
+#92
+0*
+#93
+b11100 1
+1*
+#94
+0*
+#95
+b11101 1
+1*
+#96
+0*
+#97
+b11110 1
+1*
+#98
+0*
+#99
+b11111 1
+1*
+#100
+0*
+#101
+b100000 1
+1*
+#102
+0*
+#103
+b100001 1
+1*
+#104
+0*
+#105
+b100010 1
+1*
+#106
+0*
+#107
+b100011 1
+1*
+#108
+0*
+b10000 3
+#109
+b100100 1
+1*
+#110
+0*
+#111
+b100101 1
+1*
+#112
+0*
+#113
+b100110 1
+1*
+#114
+0*
+#115
+b100111 1
+1*
+#116
+0*
+#117
+b101000 1
+1*
+#118
+0*
+#119
+b101001 1
+1*
+#120
+0*
+#121
+b101010 1
+1*
+#122
+0*
+#123
+b101011 1
+1*
+#124
+0*
+#125
+b101100 1
+1*
+#126
+0*
+#127
+b101101 1
+1*
+#128
+0*
+#129
+b101110 1
+1*
+#130
+0*
+#131
+b101111 1
+1*
+#132
+0*
+#133
+b110000 1
+1*
+#134
+0*
+#135
+b110001 1
+1*
+#136
+0*
+#137
+b110010 1
+1*
+#138
+0*
+#139
+b110011 1
+1*
+#140
+0*
+#141
+b110100 1
+1*
+#142
+0*
+#143
+b110101 1
+1*
+#144
+0*
+#145
+b110110 1
+1*
+#146
+0*
+#147
+b110111 1
+1*
+#148
+0*
+#149
+b111000 1
+1*
+#150
+0*
+#151
+b111001 1
+1*
+#152
+0*
+#153
+b111010 1
+1*
+#154
+0*
+#155
+b111011 1
+1*
+#156
+0*
+#157
+b111100 1
+1*
+#158
+0*
+#159
+b111101 1
+1*
+#160
+0*
+#161
+b111110 1
+1*
+#162
+0*
+#163
+b111111 1
+1*
+#164
+0*
+#165
+b1000000 1
+1*
+#166
+0*
+#167
+b1000001 1
+1*
+#168
+0*
+#169
+b1000010 1
+1*
+#170
+0*
+#171
+b1000011 1
+1*
+#172
+0*
+#173
+b1000100 1
+1*
+#174
+0*
+#175
+b1000101 1
+1*
+#176
+0*
+#177
+b1000110 1
+1*
+#178
+0*
+#179
+b1000111 1
+1*
+#180
+0*
+#181
+b1001000 1
+1*
+#182
+0*
+#183
+b1001001 1
+1*
+#184
+0*
+#185
+b1001010 1
+1*
+#186
+0*
+#187
+b1001011 1
+1*
+#188
+0*
+#189
+b1001100 1
+1*
+#190
+0*
+#191
+b1001101 1
+1*
+#192
+0*
+#193
+b1001110 1
+1*
+#194
+0*
+#195
+b1001111 1
+1*
+#196
+0*
+#197
+b1010000 1
+1*
+#198
+0*
+#199
+b1010001 1
+1*
+#200
+0*
+#201
+b1010010 1
+1*
+#202
+0*
+#203
+b1010011 1
+1*
+#204
+0*
+#205
+b1010100 1
+1*
+#206
+0*
+#207
+b1010101 1
+1*
+#208
+0*
+#209
+b1010110 1
+1*
+#210
+0*
+#211
+b1010111 1
+1*
+#212
+0*
+#213
+b1011000 1
+1*
+#214
+0*
+#215
+b1011001 1
+1*
+#216
+0*
+#217
+b1011010 1
+1*
+#218
+0*
+#219
+b1011011 1
+1*
+#220
+0*
+#221
+b1011100 1
+1*
+#222
+0*
+#223
+b1011101 1
+1*
+#224
+0*
+#225
+b1011110 1
+1*
+#226
+0*
+#227
+b1011111 1
+1*
+#228
+0*
+#229
+b1100000 1
+1*
+#230
+0*
+#231
+b1100001 1
+1*
+#232
+0*
+#233
+b1100010 1
+1*
+#234
+0*
+#235
+b1100011 1
+1*
+#236
+0*
+#237
+b1100100 1
+1*
+#238
+0*
+#239
+b1100101 1
+1*
+#240
+0*
+#241
+b1100110 1
+1*
+#242
+0*
+#243
+b1100111 1
+1*
+#244
+0*
+#245
+b1101000 1
+1*
+#246
+0*
+#247
+b1101001 1
+1*
+#248
+0*
+#249
+b1101010 1
+1*
+#250
+0*
+#251
+b1101011 1
+1*
+#252
+0*
+#253
+b1101100 1
+1*
+#254
+0*
+#255
+b1101101 1
+1*
+#256
+0*
+#257
+b1101110 1
+1*
+#258
+0*
+#259
+b1101111 1
+1*
+#260
+0*
+#261
+b1110000 1
+1*
+#262
+0*
+#263
+b1110001 1
+1*
+#264
+0*
+#265
+b1110010 1
+1*
+#266
+0*
+#267
+b1110011 1
+1*
+#268
+0*
+#269
+b1110100 1
+1*
+#270
+0*
+#271
+b1110101 1
+1*
+#272
+0*
+#273
+b1110110 1
+1*
+#274
+0*
+#275
+b1110111 1
+1*
+#276
+0*
+#277
+b1111000 1
+1*
+#278
+0*
+#279
+b1111001 1
+1*
+#280
+0*
+#281
+b1111010 1
+1*
+#282
+0*
+#283
+b1111011 1
+1*
+#284
+0*
+#285
+b1111100 1
+1*
+#286
+0*
+#287
+b1111101 1
+1*
+#288
+0*
+#289
+b1111110 1
+1*
+#290
+0*
+#291
+b1111111 1
+1*
+#292
+0*
+#293
+b10000000 1
+1*
+#294
+0*
+#295
+b10000001 1
+1*
+#296
+0*
+#297
+b10000010 1
+1*
+#298
+0*
+#299
+b10000011 1
+1*
+#300
+0*
+#301
+b10000100 1
+1*
+#302
+0*
+#303
+b10000101 1
+1*
+#304
+0*
+#305
+b10000110 1
+1*
+#306
+0*
+#307
+b10000111 1
+1*
+#308
+0*
+#309
+b10001000 1
+1*
+#310
+0*
+#311
+b10001001 1
+1*
+#312
+0*
+#313
+b10001010 1
+1*
+#314
+0*
+#315
+b10001011 1
+1*
+#316
+0*
+#317
+b10001100 1
+1*
+#318
+0*
+#319
+b10001101 1
+1*
+#320
+0*
+#321
+b10001110 1
+1*
+#322
+0*
+#323
+b10001111 1
+1*
+#324
+0*
+#325
+b10010000 1
+1*
+#326
+0*
+#327
+b10010001 1
+1*
+#328
+0*
+#329
+b10010010 1
+1*
+#330
+0*
+#331
+b10010011 1
+1*
+#332
+0*
+#333
+b10010100 1
+1*
+#334
+0*
+#335
+b10010101 1
+1*
+#336
+0*
+#337
+b10010110 1
+1*
+#338
+0*
+#339
+b10010111 1
+1*
+#340
+0*
+#341
+b10011000 1
+1*
+#342
+0*
+#343
+b10011001 1
+1*
+#344
+0*
+#345
+b10011010 1
+1*
+#346
+0*
+#347
+b10011011 1
+1*
+#348
+0*
+#349
+b10011100 1
+1*
+#350
+0*
+#351
+b10011101 1
+1*
+#352
+0*
+#353
+b10011110 1
+1*
+#354
+0*
+#355
+b10011111 1
+1*
+#356
+0*
+#357
+b10100000 1
+1*
+#358
+0*
+#359
+b10100001 1
+1*
+#360
+0*
+#361
+b10100010 1
+1*
+#362
+0*
+#363
+b10100011 1
+1*
+#364
+0*
+#365
+b10100100 1
+1*
+#366
+0*
+#367
+b10100101 1
+1*
+#368
+0*
+#369
+b10100110 1
+1*
+#370
+0*
+#371
+b10100111 1
+1*
+#372
+0*
+#373
+b10101000 1
+1*
+#374
+0*
+#375
+b10101001 1
+1*
+#376
+0*
+#377
+b10101010 1
+1*
+#378
+0*
+#379
+b10101011 1
+1*
+#380
+0*
+#381
+b10101100 1
+1*
+#382
+0*
+#383
+b10101101 1
+1*
+#384
+0*
+#385
+b10101110 1
+1*
+#386
+0*
+#387
+b10101111 1
+1*
+#388
+0*
+#389
+b10110000 1
+1*
+#390
+0*
+#391
+b10110001 1
+1*
+#392
+0*
+#393
+b10110010 1
+1*
+#394
+0*
+#395
+b10110011 1
+1*
+#396
+0*
+#397
+b10110100 1
+1*
+#398
+0*
+#399
+b10110101 1
+1*
+#400
+0*
+#401
+b10110110 1
+1*
+#402
+0*
+#403
+b10110111 1
+1*
+#404
+0*
+#405
+b10111000 1
+1*
+#406
+0*
+#407
+b10111001 1
+1*
+#408
+0*
+#409
+b10111010 1
+1*
+#410
+0*
+#411
+b10111011 1
+1*
+#412
+0*
+#413
+b10111100 1
+1*
+#414
+0*
+#415
+b10111101 1
+1*
+#416
+0*
+#417
+b10111110 1
+1*
+#418
+0*
+#419
+b10111111 1
+1*
+#420
+0*
+#421
+b11000000 1
+1*
+#422
+0*
+#423
+b11000001 1
+1*
+#424
+0*
+#425
+b11000010 1
+1*
+#426
+0*
+#427
+b11000011 1
+1*
+#428
+0*
+#429
+b11000100 1
+1*
+#430
+0*
+#431
+b11000101 1
+1*
+#432
+0*
+#433
+b11000110 1
+1*
+#434
+0*
+#435
+b11000111 1
+1*
+#436
+0*
+#437
+b11001000 1
+1*
+#438
+0*
+#439
+b11001001 1
+1*
+#440
+0*
+#441
+b11001010 1
+1*
+#442
+0*
+#443
+b11001011 1
+1*
+#444
+0*
+#445
+b11001100 1
+1*
+#446
+0*
+#447
+b11001101 1
+1*
+#448
+0*
+#449
+b11001110 1
+1*
+#450
+0*
+#451
+b11001111 1
+1*
+#452
+0*
+#453
+b11010000 1
+1*
+#454
+0*
+#455
+b11010001 1
+1*
+#456
+0*
+#457
+b11010010 1
+1*
+#458
+0*
+#459
+b11010011 1
+1*
+#460
+0*
+#461
+b11010100 1
+1*
+#462
+0*
+#463
+b11010101 1
+1*
+#464
+0*
+#465
+b11010110 1
+1*
+#466
+0*
+#467
+b11010111 1
+1*
+#468
+0*
+#469
+b11011000 1
+1*
+#470
+0*
+#471
+b11011001 1
+1*
+#472
+0*
+#473
+b11011010 1
+1*
+#474
+0*
+#475
+b11011011 1
+1*
+#476
+0*
+#477
+b11011100 1
+1*
+#478
+0*
+#479
+b11011101 1
+1*
+#480
+0*
+#481
+b11011110 1
+1*
+#482
+0*
+#483
+b11011111 1
+1*
+#484
+0*
+#485
+b11100000 1
+1*
+#486
+0*
+#487
+b11100001 1
+1*
+#488
+0*
+#489
+b11100010 1
+1*
+#490
+0*
+#491
+b11100011 1
+1*
+#492
+0*
+#493
+b11100100 1
+1*
+#494
+0*
+#495
+b11100101 1
+1*
+#496
+0*
+#497
+b11100110 1
+1*
+#498
+0*
+#499
+b11100111 1
+1*
+#500
+0*
+#501
+b11101000 1
+1*
+#502
+0*
+#503
+b11101001 1
+1*
+#504
+0*
+#505
+b11101010 1
+1*
+#506
+0*
+#507
+b11101011 1
+1*
+#508
+0*
+#509
+b11101100 1
+1*
+#510
+0*
+#511
+b11101101 1
+1*
+#512
+0*
+#513
+b11101110 1
+1*
+#514
+0*
+#515
+b11101111 1
+1*
+#516
+0*
+#517
+b11110000 1
+1*
+#518
+0*
+#519
+b11110001 1
+1*
+#520
+0*
+#521
+b11110010 1
+1*
+#522
+0*
+#523
+b11110011 1
+1*
+#524
+0*
+#525
+b11110100 1
+1*
+#526
+0*
+#527
+b11110101 1
+1*
+#528
+0*
+#529
+b11110110 1
+1*
+#530
+0*
+#531
+b11110111 1
+1*
+#532
+0*
+#533
+b11111000 1
+1*
+#534
+0*
+#535
+b11111001 1
+1*
+#536
+0*
+#537
+b11111010 1
+1*
+#538
+0*
+#539
+b11111011 1
+1*
+#540
+0*
+#541
+b11111100 1
+1*
+#542
+0*
+#543
+b11111101 1
+1*
+#544
+0*
+#545
+b11111110 1
+1*
+#546
+0*
+#547
+b11111111 1
+1*
+#548
+0*
+#549
+b100000000 1
+1*
+#550
+0*
+#551
+b100000001 1
+1*
+#552
+0*
+#553
+b100000010 1
+1*
+#554
+0*
+#555
+b100000011 1
+1*
+#556
+0*
+#557
+b100000100 1
+1*
+#558
+0*
+#559
+b100000101 1
+1*
+#560
+0*
+#561
+b100000110 1
+1*
+#562
+0*
+#563
+b100000111 1
+1*
+#564
+0*
+#565
+b100001000 1
+1*
+#566
+0*
+#567
+b100001001 1
+1*
+#568
+0*
+#569
+b100001010 1
+1*
+#570
+0*
+#571
+b100001011 1
+1*
+#572
+0*
+#573
+b100001100 1
+1*
+#574
+0*
+#575
+b100001101 1
+1*
+#576
+0*
+#577
+b100001110 1
+1*
+#578
+0*
+#579
+b100001111 1
+1*
+#580
+0*
+#581
+b100010000 1
+1*
+#582
+0*
+#583
+b100010001 1
+1*
+#584
+0*
+#585
+b100010010 1
+1*
+#586
+0*
+#587
+b100010011 1
+1*
+#588
+0*
+#589
+b100010100 1
+1*
+#590
+0*
+#591
+b100010101 1
+1*
+#592
+0*
+#593
+b100010110 1
+1*
+#594
+0*
+#595
+b100010111 1
+1*
+#596
+0*
+#597
+b100011000 1
+1*
+#598
+0*
+#599
+b100011001 1
+1*
+#600
+0*
+#601
+b100011010 1
+1*
+#602
+0*
+#603
+b100011011 1
+1*
+#604
+0*
+#605
+b100011100 1
+1*
+#606
+0*
+#607
+b100011101 1
+1*
+#608
+0*
+#609
+b100011110 1
+1*
+#610
+0*
+#611
+b100011111 1
+1*
+#612
+0*
+#613
+b100100000 1
+1*
+#614
+0*
+#615
+b100100001 1
+1*
+#616
+0*
+#617
+b100100010 1
+1*
+#618
+0*
+#619
+b100100011 1
+1*
+#620
+0*
+#621
+b100100100 1
+1*
+#622
+0*
+#623
+b100100101 1
+1*
+#624
+0*
+#625
+b100100110 1
+1*
+#626
+0*
+#627
+b100100111 1
+1*
+#628
+0*
+#629
+b100101000 1
+1*
+#630
+0*
+#631
+b100101001 1
+1*
+#632
+0*
+#633
+b100101010 1
+1*
+#634
+0*
+#635
+b100101011 1
+1*
+#636
+0*
+#637
+b100101100 1
+1*
+#638
+0*
+#639
+b100101101 1
+1*
+#640
+0*
+#641
+b100101110 1
+1*
+#642
+0*
+#643
+b100101111 1
+1*
+#644
+0*
+#645
+b100110000 1
+1*
+#646
+0*
+#647
+b100110001 1
+1*
+#648
+0*
+#649
+b100110010 1
+1*
+#650
+0*
+#651
+b100110011 1
+1*
+#652
+0*
+#653
+b100110100 1
+1*
+#654
+0*
+#655
+b100110101 1
+1*
+#656
+0*
+#657
+b100110110 1
+1*
+#658
+0*
+#659
+b100110111 1
+1*
+#660
+0*
+#661
+b100111000 1
+1*
+#662
+0*
+#663
+b100111001 1
+1*
+#664
+0*
+#665
+b100111010 1
+1*
+#666
+0*
+#667
+b100111011 1
+1*
+#668
+0*
+#669
+b100111100 1
+1*
+#670
+0*
+#671
+b100111101 1
+1*
+#672
+0*
+#673
+b100111110 1
+1*
+#674
+0*
+#675
+b100111111 1
+1*
+#676
+0*
+#677
+b101000000 1
+1*
+#678
+0*
+#679
+b101000001 1
+1*
+#680
+0*
+#681
+b101000010 1
+1*
+#682
+0*
+#683
+b101000011 1
+1*
+#684
+0*
+#685
+b101000100 1
+1*
+#686
+0*
+#687
+b101000101 1
+1*
+#688
+0*
+#689
+b101000110 1
+1*
+#690
+0*
+#691
+b101000111 1
+1*
+#692
+0*
+#693
+b101001000 1
+1*
+#694
+0*
+#695
+b101001001 1
+1*
+#696
+0*
+#697
+b101001010 1
+1*
+#698
+0*
+#699
+b101001011 1
+1*
+#700
+0*
+#701
+b101001100 1
+1*
+#702
+0*
+#703
+b101001101 1
+1*
+#704
+0*
+#705
+b101001110 1
+1*
+#706
+0*
+#707
+b101001111 1
+1*
+#708
+0*
+#709
+b101010000 1
+1*
+#710
+0*
+#711
+b101010001 1
+1*
+#712
+0*
+#713
+b101010010 1
+1*
+#714
+0*
+#715
+b101010011 1
+1*
+#716
+0*
+#717
+b101010100 1
+1*
+#718
+0*
+#719
+b101010101 1
+1*
+#720
+0*
+#721
+b101010110 1
+1*
+#722
+0*
+#723
+b101010111 1
+1*
+#724
+0*
+#725
+b101011000 1
+1*
+#726
+0*
+#727
+b101011001 1
+1*
+#728
+0*
+#729
+b101011010 1
+1*
+#730
+0*
+#731
+b101011011 1
+1*
+#732
+0*
+#733
+b101011100 1
+1*
+#734
+0*
+#735
+b101011101 1
+1*
+#736
+0*
+#737
+b101011110 1
+1*
+#738
+0*
+#739
+b101011111 1
+1*
+#740
+0*
+#741
+b101100000 1
+1*
+#742
+0*
+#743
+b101100001 1
+1*
+#744
+0*
+#745
+b101100010 1
+1*
+#746
+0*
+#747
+b101100011 1
+1*
+#748
+0*
+#749
+b101100100 1
+1*
+#750
+0*
+#751
+b101100101 1
+1*
+#752
+0*
+#753
+b101100110 1
+1*
+#754
+0*
+#755
+b101100111 1
+1*
+#756
+0*
+#757
+b101101000 1
+1*
+#758
+0*
+#759
+b101101001 1
+1*
+#760
+0*
+#761
+b101101010 1
+1*
+#762
+0*
+#763
+b101101011 1
+1*
+#764
+0*
+#765
+b101101100 1
+1*
+#766
+0*
+#767
+b101101101 1
+1*
+#768
+0*
+#769
+b101101110 1
+1*
+#770
+0*
+#771
+b101101111 1
+1*
+#772
+0*
+#773
+b101110000 1
+1*
+#774
+0*
+#775
+b101110001 1
+1*
+#776
+0*
+#777
+b101110010 1
+1*
+#778
+0*
+#779
+b101110011 1
+1*
+#780
+0*
+#781
+b101110100 1
+1*
+#782
+0*
+#783
+b101110101 1
+1*
+#784
+0*
+#785
+b101110110 1
+1*
+#786
+0*
+#787
+b101110111 1
+1*
+#788
+0*
+#789
+b101111000 1
+1*
+#790
+0*
+#791
+b101111001 1
+1*
+#792
+0*
+#793
+b101111010 1
+1*
+#794
+0*
+#795
+b101111011 1
+1*
+#796
+0*
+#797
+b101111100 1
+1*
+#798
+0*
+#799
+b101111101 1
+1*
+#800
+0*
+#801
+b101111110 1
+1*
+#802
+0*
+#803
+b101111111 1
+1*
+#804
+0*
+#805
+b110000000 1
+1*
+#806
+0*
+#807
+b110000001 1
+1*
+#808
+0*
+#809
+b110000010 1
+1*
+#810
+0*
+#811
+b110000011 1
+1*
+#812
+0*
+#813
+b110000100 1
+1*
+#814
+0*
+#815
+b110000101 1
+1*
+#816
+0*
+#817
+b110000110 1
+1*
+#818
+0*
+#819
+b110000111 1
+1*
+#820
+0*
+#821
+b110001000 1
+1*
+#822
+0*
+#823
+b110001001 1
+1*
+#824
+0*
+#825
+b110001010 1
+1*
+#826
+0*
+#827
+b110001011 1
+1*
+#828
+0*
+#829
+b110001100 1
+1*
+#830
+0*
+#831
+b110001101 1
+1*
+#832
+0*
+#833
+b110001110 1
+1*
+#834
+0*
+#835
+b110001111 1
+1*
+#836
+0*
+#837
+b110010000 1
+1*
+#838
+0*
+#839
+b110010001 1
+1*
+#840
+0*
+#841
+b110010010 1
+1*
+#842
+0*
+#843
+b110010011 1
+1*
+#844
+0*
+#845
+b110010100 1
+1*
+#846
+0*
+#847
+b110010101 1
+1*
+#848
+0*
+#849
+b110010110 1
+1*
+#850
+0*
+#851
+b110010111 1
+1*
+#852
+0*
+#853
+b110011000 1
+1*
+#854
+0*
+#855
+b110011001 1
+1*
+#856
+0*
+#857
+b110011010 1
+1*
+#858
+0*
+#859
+b110011011 1
+1*
+#860
+0*
+#861
+b110011100 1
+1*
+#862
+0*
+#863
+b110011101 1
+1*
+#864
+0*
+#865
+b110011110 1
+1*
+#866
+0*
+#867
+b110011111 1
+1*
+#868
+0*
+#869
+b110100000 1
+1*
+#870
+0*
+#871
+b110100001 1
+1*
+#872
+0*
+#873
+b110100010 1
+1*
+#874
+0*
+#875
+b110100011 1
+1*
+#876
+0*
+#877
+b110100100 1
+1*
+#878
+0*
+#879
+b110100101 1
+1*
+#880
+0*
+#881
+b110100110 1
+1*
+#882
+0*
+#883
+b110100111 1
+1*
+#884
+0*
+#885
+b110101000 1
+1*
+#886
+0*
+#887
+b110101001 1
+1*
+#888
+0*
+#889
+b110101010 1
+1*
+#890
+0*
+#891
+b110101011 1
+1*
+#892
+0*
+#893
+b110101100 1
+1*
+#894
+0*
+#895
+b110101101 1
+1*
+#896
+0*
+#897
+b110101110 1
+1*
+#898
+0*
+#899
+b110101111 1
+1*
+#900
+0*
+#901
+b110110000 1
+1*
+#902
+0*
+#903
+b110110001 1
+1*
+#904
+0*
+#905
+b110110010 1
+1*
+#906
+0*
+#907
+b110110011 1
+1*
+#908
+0*
+#909
+b110110100 1
+1*
+#910
+0*
+#911
+b110110101 1
+1*
+#912
+0*
+#913
+b110110110 1
+1*
+#914
+0*
+#915
+b110110111 1
+1*
+#916
+0*
+#917
+b110111000 1
+1*
+#918
+0*
+#919
+b110111001 1
+1*
+#920
+0*
+#921
+b110111010 1
+1*
+#922
+0*
+#923
+b110111011 1
+1*
+#924
+0*
+#925
+b110111100 1
+1*
+#926
+0*
+#927
+b110111101 1
+1*
+#928
+0*
+#929
+b110111110 1
+1*
+#930
+0*
+#931
+b110111111 1
+1*
+#932
+0*
+#933
+b111000000 1
+1*
+#934
+0*
+#935
+b111000001 1
+1*
+#936
+0*
+#937
+b111000010 1
+1*
+#938
+0*
+#939
+b111000011 1
+1*
+#940
+0*
+#941
+b111000100 1
+1*
+#942
+0*
+#943
+b111000101 1
+1*
+#944
+0*
+#945
+b111000110 1
+1*
+#946
+0*
+#947
+b111000111 1
+1*
+#948
+0*
+#949
+b111001000 1
+1*
+#950
+0*
+#951
+b111001001 1
+1*
+#952
+0*
+#953
+b111001010 1
+1*
+#954
+0*
+#955
+b111001011 1
+1*
+#956
+0*
+#957
+b111001100 1
+1*
+#958
+0*
+#959
+b111001101 1
+1*
+#960
+0*
+#961
+b111001110 1
+1*
+#962
+0*
+#963
+b111001111 1
+1*
+#964
+0*
+#965
+b111010000 1
+1*
+#966
+0*
+#967
+b111010001 1
+1*
+#968
+0*
+#969
+b111010010 1
+1*
+#970
+0*
+#971
+b111010011 1
+1*
+#972
+0*
+#973
+b111010100 1
+1*
+#974
+0*
+#975
+b111010101 1
+1*
+#976
+0*
+#977
+b111010110 1
+1*
+#978
+0*
+#979
+b111010111 1
+1*
+#980
+0*
+#981
+b111011000 1
+1*
+#982
+0*
+#983
+b111011001 1
+1*
+#984
+0*
+#985
+b111011010 1
+1*
+#986
+0*
+#987
+b111011011 1
+1*
+#988
+0*
+#989
+b111011100 1
+1*
+#990
+0*
+#991
+b111011101 1
+1*
+#992
+0*
+#993
+b111011110 1
+1*
+#994
+0*
+#995
+b111011111 1
+1*
+#996
+0*
+#997
+b111100000 1
+1*
+#998
+0*
+#999
+b111100001 1
+1*
+#1000
+0*
+#1001
+b111100010 1
+1*
+#1002
+0*
+#1003
+b111100011 1
+1*
+#1004
+0*
+#1005
+b111100100 1
+1*
+#1006
+0*
+#1007
+b111100101 1
+1*
+#1008
+0*
+#1009
+b111100110 1
+1*
+#1010
+0*
+#1011
+b111100111 1
+1*
+#1012
+0*
+#1013
+b111101000 1
+1*
+#1014
+0*
+#1015
+b111101001 1
+1*
+#1016
+0*
+#1017
+b111101010 1
+1*
+#1018
+0*
+#1019
+b111101011 1
+1*
+#1020
+0*
+#1021
+b111101100 1
+1*
+#1022
+0*
+#1023
+b111101101 1
+1*
+#1024
+0*
+#1025
+b111101110 1
+1*
+#1026
+0*
+#1027
+b111101111 1
+1*
+#1028
+0*
+#1029
+b111110000 1
+1*
+#1030
+0*
+#1031
+b111110001 1
+1*
+#1032
+0*
+#1033
+b111110010 1
+1*
+#1034
+0*
+#1035
+b111110011 1
+1*
+#1036
+0*
+#1037
+b111110100 1
+1*
+#1038
+0*
+#1039
+b111110101 1
+1*
+#1040
+0*
+#1041
+b111110110 1
+1*
+#1042
+0*
+#1043
+b111110111 1
+1*
+#1044
+0*
+#1045
+b111111000 1
+1*
+#1046
+0*
+#1047
+b111111001 1
+1*
+#1048
+0*
+#1049
+b111111010 1
+1*
+#1050
+0*
+#1051
+b111111011 1
+1*
+#1052
+0*
+#1053
+b111111100 1
+1*
+#1054
+0*
+#1055
+b111111101 1
+1*
+#1056
+0*
+#1057
+b111111110 1
+1*
+#1058
+0*
+#1059
+b111111111 1
+1*
+#1060
+0*
+#1061
+b1000000000 1
+1*
+#1062
+0*
+#1063
+b1000000001 1
+1*
+#1064
+0*
+#1065
+b1000000010 1
+1*
+#1066
+0*
+#1067
+b1000000011 1
+1*
+#1068
+0*
+#1069
+b1000000100 1
+1*
+#1070
+0*
+#1071
+b1000000101 1
+1*
+#1072
+0*
+#1073
+b1000000110 1
+1*
+#1074
+0*
+#1075
+b1000000111 1
+1*
+#1076
+0*
+#1077
+b1000001000 1
+1*
+#1078
+0*
+#1079
+b1000001001 1
+1*
+#1080
+0*
+#1081
+b1000001010 1
+1*
+#1082
+0*
+#1083
+b1000001011 1
+1*
+#1084
+0*
+#1085
+b1000001100 1
+1*
+#1086
+0*
+#1087
+b1000001101 1
+1*
+#1088
+0*
+#1089
+b1000001110 1
+1*
+#1090
+0*
+#1091
+b1000001111 1
+1*
+#1092
+0*
+#1093
+b1000010000 1
+1*
+#1094
+0*
+#1095
+b1000010001 1
+1*
+#1096
+0*
+#1097
+b1000010010 1
+1*
+#1098
+0*
+#1099
+b1000010011 1
+1*
+#1100
+0*
+#1101
+b1000010100 1
+1*
+#1102
+0*
+#1103
+b1000010101 1
+1*
+#1104
+0*
+#1105
+b1000010110 1
+1*
+#1106
+0*
+#1107
+b1000010111 1
+1*
+#1108
+0*
+#1109
+b1000011000 1
+1*
+#1110
+0*
+#1111
+b1000011001 1
+1*
+#1112
+0*
+#1113
+b1000011010 1
+1*
+#1114
+0*
+#1115
+b1000011011 1
+1*
+#1116
+0*
+#1117
+b1000011100 1
+1*
+#1118
+0*
+#1119
+b1000011101 1
+1*
+#1120
+0*
+#1121
+b1000011110 1
+1*
+#1122
+0*
+#1123
+b1000011111 1
+1*
+#1124
+0*
+#1125
+b1000100000 1
+1*
+#1126
+0*
+#1127
+b1000100001 1
+1*
+#1128
+0*
+#1129
+b1000100010 1
+1*
+#1130
+0*
+#1131
+b1000100011 1
+1*
+#1132
+0*
+#1133
+b1000100100 1
+1*
+#1134
+0*
+#1135
+b1000100101 1
+1*
+#1136
+0*
+#1137
+b1000100110 1
+1*
+#1138
+0*
+#1139
+b1000100111 1
+1*
+#1140
+0*
+#1141
+b1000101000 1
+1*
+#1142
+0*
+#1143
+b1000101001 1
+1*
+#1144
+0*
+#1145
+b1000101010 1
+1*
+#1146
+0*
+#1147
+b1000101011 1
+1*
+#1148
+0*
+#1149
+b1000101100 1
+1*
+#1150
+0*
+#1151
+b1000101101 1
+1*
+#1152
+0*
+#1153
+b1000101110 1
+1*
+#1154
+0*
+#1155
+b1000101111 1
+1*
+#1156
+0*
+#1157
+b1000110000 1
+1*
+#1158
+0*
+#1159
+b1000110001 1
+1*
+#1160
+0*
+#1161
+b1000110010 1
+1*
+#1162
+0*
+#1163
+b1000110011 1
+1*
+#1164
+0*
+#1165
+b1000110100 1
+1*
+#1166
+0*
+#1167
+b1000110101 1
+1*
+#1168
+0*
+#1169
+b1000110110 1
+1*
+#1170
+0*
+#1171
+b1000110111 1
+1*
+#1172
+0*
+#1173
+b1000111000 1
+1*
+#1174
+0*
+#1175
+b1000111001 1
+1*
+#1176
+0*
+#1177
+b1000111010 1
+1*
+#1178
+0*
+#1179
+b1000111011 1
+1*
+#1180
+0*
+#1181
+b1000111100 1
+1*
+#1182
+0*
+#1183
+b1000111101 1
+1*
+#1184
+0*
+#1185
+b1000111110 1
+1*
+#1186
+0*
+#1187
+b1000111111 1
+1*
+#1188
+0*
+#1189
+b1001000000 1
+1*
+#1190
+0*
+#1191
+b1001000001 1
+1*
+#1192
+0*
+#1193
+b1001000010 1
+1*
+#1194
+0*
+#1195
+b1001000011 1
+1*
+#1196
+0*
+#1197
+b1001000100 1
+1*
+#1198
+0*
+#1199
+b1001000101 1
+1*
+#1200
+0*
+#1201
+b1001000110 1
+1*
+#1202
+0*
+#1203
+b1001000111 1
+1*
+#1204
+0*
+#1205
+b1001001000 1
+1*
+#1206
+0*
+#1207
+b1001001001 1
+1*
+#1208
+0*
+#1209
+b1001001010 1
+1*
+#1210
+0*
+#1211
+b1001001011 1
+1*
+#1212
+0*
+#1213
+b1001001100 1
+1*
+#1214
+0*
+#1215
+b1001001101 1
+1*
+#1216
+0*
+#1217
+b1001001110 1
+1*
+#1218
+0*
+#1219
+b1001001111 1
+1*
+#1220
+0*
+#1221
+b1001010000 1
+1*
+#1222
+0*
+#1223
+b1001010001 1
+1*
+#1224
+0*
+#1225
+b1001010010 1
+1*
+#1226
+0*
+#1227
+b1001010011 1
+1*
+#1228
+0*
+#1229
+b1001010100 1
+1*
+#1230
+0*
+#1231
+b1001010101 1
+1*
+#1232
+0*
+#1233
+b1001010110 1
+1*
+#1234
+0*
+#1235
+b1001010111 1
+1*
+#1236
+0*
+#1237
+b1001011000 1
+1*
+#1238
+0*
+#1239
+b1001011001 1
+1*
+#1240
+0*
+#1241
+b1001011010 1
+1*
+#1242
+0*
+#1243
+b1001011011 1
+1*
+#1244
+0*
+#1245
+b1001011100 1
+1*
+#1246
+0*
+#1247
+b1001011101 1
+1*
+#1248
+0*
+#1249
+b1001011110 1
+1*
+#1250
+0*
+#1251
+b1001011111 1
+1*
+#1252
+0*
+#1253
+b1001100000 1
+1*
+#1254
+0*
+#1255
+b1001100001 1
+1*
+#1256
+0*
+#1257
+b1001100010 1
+1*
+#1258
+0*
+#1259
+b1001100011 1
+1*
+#1260
+0*
+#1261
+b1001100100 1
+1*
+#1262
+0*
+#1263
+b1001100101 1
+1*
+#1264
+0*
+#1265
+b1001100110 1
+1*
+#1266
+0*
+#1267
+b1001100111 1
+1*
+#1268
+0*
+#1269
+b1001101000 1
+1*
+#1270
+0*
+#1271
+b1001101001 1
+1*
+#1272
+0*
+#1273
+b1001101010 1
+1*
+#1274
+0*
+#1275
+b1001101011 1
+1*
+#1276
+0*
+#1277
+b1001101100 1
+1*
+#1278
+0*
+#1279
+b1001101101 1
+1*
+#1280
+0*
+#1281
+b1001101110 1
+1*
+#1282
+0*
+#1283
+b1001101111 1
+1*
+#1284
+0*
+#1285
+b1001110000 1
+1*
+#1286
+0*
+#1287
+b1001110001 1
+1*
+#1288
+0*
+#1289
+b1001110010 1
+1*
+#1290
+0*
+#1291
+b1001110011 1
+1*
+#1292
+0*
+#1293
+b1001110100 1
+1*
+#1294
+0*
+#1295
+b1001110101 1
+1*
+#1296
+0*
+#1297
+b1001110110 1
+1*
+#1298
+0*
+#1299
+b1001110111 1
+1*
+#1300
+0*
+#1301
+b1001111000 1
+1*
+#1302
+0*
+#1303
+b1001111001 1
+1*
+#1304
+0*
+#1305
+b1001111010 1
+1*
+#1306
+0*
+#1307
+b1001111011 1
+1*
+#1308
+0*
+#1309
+b1001111100 1
+1*
+#1310
+0*
+#1311
+b1001111101 1
+1*
+#1312
+0*
+#1313
+b1001111110 1
+1*
+#1314
+0*
+#1315
+b1001111111 1
+1*
+#1316
+0*
+#1317
+b1010000000 1
+1*
+#1318
+0*
+#1319
+b1010000001 1
+1*
+#1320
+0*
+#1321
+b1010000010 1
+1*
+#1322
+0*
+#1323
+b1010000011 1
+1*
+#1324
+0*
+#1325
+b1010000100 1
+1*
+#1326
+0*
+#1327
+b1010000101 1
+1*
+#1328
+0*
+#1329
+b1010000110 1
+1*
+#1330
+0*
+#1331
+b1010000111 1
+1*
+#1332
+0*
+#1333
+b1010001000 1
+1*
+#1334
+0*
+#1335
+b1010001001 1
+1*
+#1336
+0*
+#1337
+b1010001010 1
+1*
+#1338
+0*
+#1339
+b1010001011 1
+1*
+#1340
+0*
+#1341
+b1010001100 1
+1*
+#1342
+0*
+#1343
+b1010001101 1
+1*
+#1344
+0*
+#1345
+b1010001110 1
+1*
+#1346
+0*
+#1347
+b1010001111 1
+1*
+#1348
+0*
+#1349
+b1010010000 1
+1*
+#1350
+0*
+#1351
+b1010010001 1
+1*
+#1352
+0*
+#1353
+b1010010010 1
+1*
+#1354
+0*
+#1355
+b1010010011 1
+1*
+#1356
+0*
+#1357
+b1010010100 1
+1*
+#1358
+0*
+#1359
+b1010010101 1
+1*
+#1360
+0*
+#1361
+b1010010110 1
+1*
+#1362
+0*
+#1363
+b1010010111 1
+1*
+#1364
+0*
+#1365
+b1010011000 1
+1*
+#1366
+0*
+#1367
+b1010011001 1
+1*
+#1368
+0*
+#1369
+b1010011010 1
+1*
+#1370
+0*
+#1371
+b1010011011 1
+1*
+#1372
+0*
+#1373
+b1010011100 1
+1*
+#1374
+0*
+#1375
+b1010011101 1
+1*
+#1376
+0*
+#1377
+b1010011110 1
+1*
+#1378
+0*
+#1379
+b1010011111 1
+1*
+#1380
+0*
+#1381
+b1010100000 1
+1*
+#1382
+0*
+#1383
+b1010100001 1
+1*
+#1384
+0*
+#1385
+b1010100010 1
+1*
+#1386
+0*
+#1387
+b1010100011 1
+1*
+#1388
+0*
+#1389
+b1010100100 1
+1*
+#1390
+0*
+#1391
+b1010100101 1
+1*
+#1392
+0*
+#1393
+b1010100110 1
+1*
+#1394
+0*
+#1395
+b1010100111 1
+1*
+#1396
+0*
+#1397
+b1010101000 1
+1*
+#1398
+0*
+#1399
+b1010101001 1
+1*
+#1400
+0*
+#1401
+b1010101010 1
+1*
+#1402
+0*
+#1403
+b1010101011 1
+1*
+#1404
+0*
+#1405
+b1010101100 1
+1*
+#1406
+0*
+#1407
+b1010101101 1
+1*
+#1408
+0*
+#1409
+b1010101110 1
+1*
+#1410
+0*
+#1411
+b1010101111 1
+1*
+#1412
+0*
+#1413
+b1010110000 1
+1*
+#1414
+0*
+#1415
+b1010110001 1
+1*
+#1416
+0*
+#1417
+b1010110010 1
+1*
+#1418
+0*
+#1419
+b1010110011 1
+1*
+#1420
+0*
+#1421
+b1010110100 1
+1*
+#1422
+0*
+#1423
+b1010110101 1
+1*
+#1424
+0*
+#1425
+b1010110110 1
+1*
+#1426
+0*
+#1427
+b1010110111 1
+1*
+#1428
+0*
+#1429
+b1010111000 1
+1*
+#1430
+0*
+#1431
+b1010111001 1
+1*
+#1432
+0*
+#1433
+b1010111010 1
+1*
+#1434
+0*
+#1435
+b1010111011 1
+1*
+#1436
+0*
+#1437
+b1010111100 1
+1*
+#1438
+0*
+#1439
+b1010111101 1
+1*
+#1440
+0*
+#1441
+b1010111110 1
+1*
+#1442
+0*
+#1443
+b1010111111 1
+1*
+#1444
+0*
+#1445
+b1011000000 1
+1*
+#1446
+0*
+#1447
+b1011000001 1
+1*
+#1448
+0*
+#1449
+b1011000010 1
+1*
+#1450
+0*
+#1451
+b1011000011 1
+1*
+#1452
+0*
+#1453
+b1011000100 1
+1*
+#1454
+0*
+#1455
+b1011000101 1
+1*
+#1456
+0*
+#1457
+b1011000110 1
+1*
+#1458
+0*
+#1459
+b1011000111 1
+1*
+#1460
+0*
+#1461
+b1011001000 1
+1*
+#1462
+0*
+#1463
+b1011001001 1
+1*
+#1464
+0*
+#1465
+b1011001010 1
+1*
+#1466
+0*
+#1467
+b1011001011 1
+1*
+#1468
+0*
+#1469
+b1011001100 1
+1*
+#1470
+0*
+#1471
+b1011001101 1
+1*
+#1472
+0*
+#1473
+b1011001110 1
+1*
+#1474
+0*
+#1475
+b1011001111 1
+1*
+#1476
+0*
+#1477
+b1011010000 1
+1*
+#1478
+0*
+#1479
+b1011010001 1
+1*
+#1480
+0*
+#1481
+b1011010010 1
+1*
+#1482
+0*
+#1483
+b1011010011 1
+1*
+#1484
+0*
+#1485
+b1011010100 1
+1*
+#1486
+0*
+#1487
+b1011010101 1
+1*
+#1488
+0*
+#1489
+b1011010110 1
+1*
+#1490
+0*
+#1491
+b1011010111 1
+1*
+#1492
+0*
+#1493
+b1011011000 1
+1*
+#1494
+0*
+#1495
+b1011011001 1
+1*
+#1496
+0*
+#1497
+b1011011010 1
+1*
+#1498
+0*
+#1499
+b1011011011 1
+1*
+#1500
+0*
+#1501
+b1011011100 1
+1*
+#1502
+0*
+#1503
+b1011011101 1
+1*
+#1504
+0*
+#1505
+b1011011110 1
+1*
+#1506
+0*
+#1507
+b1011011111 1
+1*
+#1508
+0*
+#1509
+b1011100000 1
+1*
+#1510
+0*
+#1511
+b1011100001 1
+1*
+#1512
+0*
+#1513
+b1011100010 1
+1*
+#1514
+0*
+#1515
+b1011100011 1
+1*
+#1516
+0*
+#1517
+b1011100100 1
+1*
+#1518
+0*
+#1519
+b1011100101 1
+1*
+#1520
+0*
+#1521
+b1011100110 1
+1*
+#1522
+0*
+#1523
+b1011100111 1
+1*
+#1524
+0*
+#1525
+b1011101000 1
+1*
+#1526
+0*
+#1527
+b1011101001 1
+1*
+#1528
+0*
+#1529
+b1011101010 1
+1*
+#1530
+0*
+#1531
+b1011101011 1
+1*
+#1532
+0*
+#1533
+b1011101100 1
+1*
+#1534
+0*
+#1535
+b1011101101 1
+1*
+#1536
+0*
+#1537
+b1011101110 1
+1*
+#1538
+0*
+#1539
+b1011101111 1
+1*
+#1540
+0*
+#1541
+b1011110000 1
+1*
+#1542
+0*
+#1543
+b1011110001 1
+1*
+#1544
+0*
+#1545
+b1011110010 1
+1*
+#1546
+0*
+#1547
+b1011110011 1
+1*
+#1548
+0*
+#1549
+b1011110100 1
+1*
+#1550
+0*
+#1551
+b1011110101 1
+1*
+#1552
+0*
+#1553
+b1011110110 1
+1*
+#1554
+0*
+#1555
+b1011110111 1
+1*
+#1556
+0*
+#1557
+b1011111000 1
+1*
+#1558
+0*
+#1559
+b1011111001 1
+1*
+#1560
+0*
+#1561
+b1011111010 1
+1*
+#1562
+0*
+#1563
+b1011111011 1
+1*
+#1564
+0*
+#1565
+b1011111100 1
+1*
+#1566
+0*
+#1567
+b1011111101 1
+1*
+#1568
+0*
+#1569
+b1011111110 1
+1*
+#1570
+0*
+#1571
+b1011111111 1
+1*
+#1572
+0*
+#1573
+b1100000000 1
+1*
+#1574
+0*
+#1575
+b1100000001 1
+1*
+#1576
+0*
+#1577
+b1100000010 1
+1*
+#1578
+0*
+#1579
+b1100000011 1
+1*
+#1580
+0*
+#1581
+b1100000100 1
+1*
+#1582
+0*
+#1583
+b1100000101 1
+1*
+#1584
+0*
+#1585
+b1100000110 1
+1*
+#1586
+0*
+#1587
+b1100000111 1
+1*
+#1588
+0*
+#1589
+b1100001000 1
+1*
+#1590
+0*
+#1591
+b1100001001 1
+1*
+#1592
+0*
+#1593
+b1100001010 1
+1*
+#1594
+0*
+#1595
+b1100001011 1
+1*
+#1596
+0*
+#1597
+b1100001100 1
+1*
+#1598
+0*
+#1599
+b1100001101 1
+1*
+#1600
+0*
+#1601
+b1100001110 1
+1*
+#1602
+0*
+#1603
+b1100001111 1
+1*
+#1604
+0*
+#1605
+b1100010000 1
+1*
+#1606
+0*
+#1607
+b1100010001 1
+1*
+#1608
+0*
+#1609
+b1100010010 1
+1*
+#1610
+0*
+#1611
+b1100010011 1
+1*
+#1612
+0*
+#1613
+b1100010100 1
+1*
+#1614
+0*
+#1615
+b1100010101 1
+1*
+#1616
+0*
+#1617
+b1100010110 1
+1*
+#1618
+0*
+#1619
+b1100010111 1
+1*
+#1620
+0*
+#1621
+b1100011000 1
+1*
+#1622
+0*
+#1623
+b1100011001 1
+1*
+#1624
+0*
+#1625
+b1100011010 1
+1*
+#1626
+0*
+#1627
+b1100011011 1
+1*
+#1628
+0*
+#1629
+b1100011100 1
+1*
+#1630
+0*
+#1631
+b1100011101 1
+1*
+#1632
+0*
+#1633
+b1100011110 1
+1*
+#1634
+0*
+#1635
+b1100011111 1
+1*
+#1636
+0*
+#1637
+b1100100000 1
+1*
+#1638
+0*
+#1639
+b1100100001 1
+1*
+#1640
+0*
+#1641
+b1100100010 1
+1*
+#1642
+0*
+#1643
+b1100100011 1
+1*
+#1644
+0*
+#1645
+b1100100100 1
+1*
+#1646
+0*
+#1647
+b1100100101 1
+1*
+#1648
+0*
+#1649
+b1100100110 1
+1*
+#1650
+0*
+#1651
+b1100100111 1
+1*
+#1652
+0*
+#1653
+b1100101000 1
+1*
+#1654
+0*
+#1655
+b1100101001 1
+1*
+#1656
+0*
+#1657
+b1100101010 1
+1*
+#1658
+0*
+#1659
+b1100101011 1
+1*
+#1660
+0*
+#1661
+b1100101100 1
+1*
+#1662
+0*
+#1663
+b1100101101 1
+1*
+#1664
+0*
+#1665
+b1100101110 1
+1*
+#1666
+0*
+#1667
+b1100101111 1
+1*
+#1668
+0*
+#1669
+b1100110000 1
+1*
+#1670
+0*
+#1671
+b1100110001 1
+1*
+#1672
+0*
+#1673
+b1100110010 1
+1*
+#1674
+0*
+#1675
+b1100110011 1
+1*
+#1676
+0*
+#1677
+b1100110100 1
+1*
+#1678
+0*
+#1679
+b1100110101 1
+1*
+#1680
+0*
+#1681
+b1100110110 1
+1*
+#1682
+0*
+#1683
+b1100110111 1
+1*
+#1684
+0*
+#1685
+b1100111000 1
+1*
+#1686
+0*
+#1687
+b1100111001 1
+1*
+#1688
+0*
+#1689
+b1100111010 1
+1*
+#1690
+0*
+#1691
+b1100111011 1
+1*
+#1692
+0*
+#1693
+b1100111100 1
+1*
+#1694
+0*
+#1695
+b1100111101 1
+1*
+#1696
+0*
+#1697
+b1100111110 1
+1*
+#1698
+0*
+#1699
+b1100111111 1
+1*
+#1700
+0*
+#1701
+b1101000000 1
+1*
+#1702
+0*
+#1703
+b1101000001 1
+1*
+#1704
+0*
+#1705
+b1101000010 1
+1*
+#1706
+0*
+#1707
+b1101000011 1
+1*
+#1708
+0*
+#1709
+b1101000100 1
+1*
+#1710
+0*
+#1711
+b1101000101 1
+1*
+#1712
+0*
+#1713
+b1101000110 1
+1*
+#1714
+0*
+#1715
+b1101000111 1
+1*
+#1716
+0*
+#1717
+b1101001000 1
+1*
+#1718
+0*
+#1719
+b1101001001 1
+1*
+#1720
+0*
+#1721
+b1101001010 1
+1*
+#1722
+0*
+#1723
+b1101001011 1
+1*
+#1724
+0*
+#1725
+b1101001100 1
+1*
+#1726
+0*
+#1727
+b1101001101 1
+1*
+#1728
+0*
+#1729
+b1101001110 1
+1*
+#1730
+0*
+#1731
+b1101001111 1
+1*
+#1732
+0*
+#1733
+b1101010000 1
+1*
+#1734
+0*
+#1735
+b1101010001 1
+1*
+#1736
+0*
+#1737
+b1101010010 1
+1*
+#1738
+0*
+#1739
+b1101010011 1
+1*
+#1740
+0*
+#1741
+b1101010100 1
+1*
+#1742
+0*
+#1743
+b1101010101 1
+1*
+#1744
+0*
+#1745
+b1101010110 1
+1*
+#1746
+0*
+#1747
+b1101010111 1
+1*
+#1748
+0*
+#1749
+b1101011000 1
+1*
+#1750
+0*
+#1751
+b1101011001 1
+1*
+#1752
+0*
+#1753
+b1101011010 1
+1*
+#1754
+0*
+#1755
+b1101011011 1
+1*
+#1756
+0*
+#1757
+b1101011100 1
+1*
+#1758
+0*
+#1759
+b1101011101 1
+1*
+#1760
+0*
+#1761
+b1101011110 1
+1*
+#1762
+0*
+#1763
+b1101011111 1
+1*
+#1764
+0*
+#1765
+b1101100000 1
+1*
+#1766
+0*
+#1767
+b1101100001 1
+1*
+#1768
+0*
+#1769
+b1101100010 1
+1*
+#1770
+0*
+#1771
+b1101100011 1
+1*
+#1772
+0*
+#1773
+b1101100100 1
+1*
+#1774
+0*
+#1775
+b1101100101 1
+1*
+#1776
+0*
+#1777
+b1101100110 1
+1*
+#1778
+0*
+#1779
+b1101100111 1
+1*
+#1780
+0*
+#1781
+b1101101000 1
+1*
+#1782
+0*
+#1783
+b1101101001 1
+1*
+#1784
+0*
+#1785
+b1101101010 1
+1*
+#1786
+0*
+#1787
+b1101101011 1
+1*
+#1788
+0*
+#1789
+b1101101100 1
+1*
+#1790
+0*
+#1791
+b1101101101 1
+1*
+#1792
+0*
+#1793
+b1101101110 1
+1*
+#1794
+0*
+#1795
+b1101101111 1
+1*
+#1796
+0*
+#1797
+b1101110000 1
+1*
+#1798
+0*
+#1799
+b1101110001 1
+1*
+#1800
+0*
+#1801
+b1101110010 1
+1*
+#1802
+0*
+#1803
+b1101110011 1
+1*
+#1804
+0*
+#1805
+b1101110100 1
+1*
+#1806
+0*
+#1807
+b1101110101 1
+1*
+#1808
+0*
+#1809
+b1101110110 1
+1*
+#1810
+0*
+#1811
+b1101110111 1
+1*
+#1812
+0*
+#1813
+b1101111000 1
+1*
+#1814
+0*
+#1815
+b1101111001 1
+1*
+#1816
+0*
+#1817
+b1101111010 1
+1*
+#1818
+0*
+#1819
+b1101111011 1
+1*
+#1820
+0*
+#1821
+b1101111100 1
+1*
+#1822
+0*
+#1823
+b1101111101 1
+1*
+#1824
+0*
+#1825
+b1101111110 1
+1*
+#1826
+0*
+#1827
+b1101111111 1
+1*
+#1828
+0*
+#1829
+b1110000000 1
+1*
+#1830
+0*
+#1831
+b1110000001 1
+1*
+#1832
+0*
+#1833
+b1110000010 1
+1*
+#1834
+0*
+#1835
+b1110000011 1
+1*
+#1836
+0*
+#1837
+b1110000100 1
+1*
+#1838
+0*
+#1839
+b1110000101 1
+1*
+#1840
+0*
+#1841
+b1110000110 1
+1*
+#1842
+0*
+#1843
+b1110000111 1
+1*
+#1844
+0*
+#1845
+b1110001000 1
+1*
+#1846
+0*
+#1847
+b1110001001 1
+1*
+#1848
+0*
+#1849
+b1110001010 1
+1*
+#1850
+0*
+#1851
+b1110001011 1
+1*
+#1852
+0*
+#1853
+b1110001100 1
+1*
+#1854
+0*
+#1855
+b1110001101 1
+1*
+#1856
+0*
+#1857
+b1110001110 1
+1*
+#1858
+0*
+#1859
+b1110001111 1
+1*
+#1860
+0*
+#1861
+b1110010000 1
+1*
+#1862
+0*
+#1863
+b1110010001 1
+1*
+#1864
+0*
+#1865
+b1110010010 1
+1*
+#1866
+0*
+#1867
+b1110010011 1
+1*
+#1868
+0*
+#1869
+b1110010100 1
+1*
+#1870
+0*
+#1871
+b1110010101 1
+1*
+#1872
+0*
+#1873
+b1110010110 1
+1*
+#1874
+0*
+#1875
+b1110010111 1
+1*
+#1876
+0*
+#1877
+b1110011000 1
+1*
+#1878
+0*
+#1879
+b1110011001 1
+1*
+#1880
+0*
+#1881
+b1110011010 1
+1*
+#1882
+0*
+#1883
+b1110011011 1
+1*
+#1884
+0*
+#1885
+b1110011100 1
+1*
+#1886
+0*
+#1887
+b1110011101 1
+1*
+#1888
+0*
+#1889
+b1110011110 1
+1*
+#1890
+0*
+#1891
+b1110011111 1
+1*
+#1892
+0*
+#1893
+b1110100000 1
+1*
+#1894
+0*
+#1895
+b1110100001 1
+1*
+#1896
+0*
+#1897
+b1110100010 1
+1*
+#1898
+0*
+#1899
+b1110100011 1
+1*
+#1900
+0*
+#1901
+b1110100100 1
+1*
+#1902
+0*
+#1903
+b1110100101 1
+1*
+#1904
+0*
+#1905
+b1110100110 1
+1*
+#1906
+0*
+#1907
+b1110100111 1
+1*
+#1908
+0*
+#1909
+b1110101000 1
+1*
+#1910
+0*
+#1911
+b1110101001 1
+1*
+#1912
+0*
+#1913
+b1110101010 1
+1*
+#1914
+0*
+#1915
+b1110101011 1
+1*
+#1916
+0*
+#1917
+b1110101100 1
+1*
+#1918
+0*
+#1919
+b1110101101 1
+1*
+#1920
+0*
+#1921
+b1110101110 1
+1*
+#1922
+0*
+#1923
+b1110101111 1
+1*
+#1924
+0*
+#1925
+b1110110000 1
+1*
+#1926
+0*
+#1927
+b1110110001 1
+1*
+#1928
+0*
+#1929
+b1110110010 1
+1*
+#1930
+0*
+#1931
+b1110110011 1
+1*
+#1932
+0*
+#1933
+b1110110100 1
+1*
+#1934
+0*
+#1935
+b1110110101 1
+1*
+#1936
+0*
+#1937
+b1110110110 1
+1*
+#1938
+0*
+#1939
+b1110110111 1
+1*
+#1940
+0*
+#1941
+b1110111000 1
+1*
+#1942
+0*
+#1943
+b1110111001 1
+1*
+#1944
+0*
+#1945
+b1110111010 1
+1*
+#1946
+0*
+#1947
+b1110111011 1
+1*
+#1948
+0*
+#1949
+b1110111100 1
+1*
+#1950
+0*
+#1951
+b1110111101 1
+1*
+#1952
+0*
+#1953
+b1110111110 1
+1*
+#1954
+0*
+#1955
+b1110111111 1
+1*
+#1956
+0*
+#1957
+b1111000000 1
+1*
+#1958
+0*
+#1959
+b1111000001 1
+1*
+#1960
+0*
+#1961
+b1111000010 1
+1*
+#1962
+0*
+#1963
+b1111000011 1
+1*
+#1964
+0*
+#1965
+b1111000100 1
+1*
+#1966
+0*
+#1967
+b1111000101 1
+1*
+#1968
+0*
+#1969
+b1111000110 1
+1*
+#1970
+0*
+#1971
+b1111000111 1
+1*
+#1972
+0*
+#1973
+b1111001000 1
+1*
+#1974
+0*
+#1975
+b1111001001 1
+1*
+#1976
+0*
+#1977
+b1111001010 1
+1*
+#1978
+0*
+#1979
+b1111001011 1
+1*
+#1980
+0*
+#1981
+b1111001100 1
+1*
+#1982
+0*
+#1983
+b1111001101 1
+1*
+#1984
+0*
+#1985
+b1111001110 1
+1*
+#1986
+0*
+#1987
+b1111001111 1
+1*
+#1988
+0*
+#1989
+b1111010000 1
+1*
+#1990
+0*
+#1991
+b1111010001 1
+1*
+#1992
+0*
+#1993
+b1111010010 1
+1*
+#1994
+0*
+#1995
+b1111010011 1
+1*
+#1996
+0*
+#1997
+b1111010100 1
+1*
+#1998
+0*
+#1999
+b1111010101 1
+1*
+#2000
+0*
+#2001
+b1111010110 1
+1*
+#2002
+0*
+#2003
+b1111010111 1
+1*
+#2004
+0*
+#2005
+b1111011000 1
+1*
+#2006
+0*
+#2007
+b1111011001 1
+1*
+#2008
+0*
+#2009
+b1111011010 1
+1*
+#2010
+0*
+#2011
+b1111011011 1
+1*
+#2012
+0*
+#2013
+b1111011100 1
+1*
+#2014
+0*
+#2015
+b1111011101 1
+1*
+#2016
+0*
+#2017
+b1111011110 1
+1*
+#2018
+0*
+#2019
+b1111011111 1
+1*
+#2020
+0*
+#2021
+b1111100000 1
+1*
+#2022
+0*
+#2023
+b1111100001 1
+1*
+#2024
+0*
+#2025
+b1111100010 1
+1*
+#2026
+0*
+#2027
+b1111100011 1
+1*
+#2028
+0*
+#2029
+b1111100100 1
+1*
+#2030
+0*
+#2031
+b1111100101 1
+1*
+#2032
+0*
+#2033
+b1111100110 1
+1*
+#2034
+0*
+#2035
+b1111100111 1
+1*
+#2036
+0*
+#2037
+b1111101000 1
+1*
+#2038
+0*
+#2039
+b1111101001 1
+1*
+#2040
+0*
+#2041
+b1111101010 1
+1*
+#2042
+0*
+#2043
+b1111101011 1
+1*
+#2044
+0*
+#2045
+b1111101100 1
+1*
+#2046
+0*
+#2047
+b1111101101 1
+1*
+#2048
+0*
+#2049
+b1111101110 1
+1*
+#2050
+0*
+#2051
+b1111101111 1
+1*
+#2052
+0*
+#2053
+b1111110000 1
+1*
+#2054
+0*
+#2055
+b1111110001 1
+1*
+#2056
+0*
+#2057
+b1111110010 1
+1*
+#2058
+0*
+#2059
+b1111110011 1
+1*
+#2060
+0*
+#2061
+b1111110100 1
+1*
+#2062
+0*
+#2063
+b1111110101 1
+1*
+#2064
+0*
+#2065
+b1111110110 1
+1*
+#2066
+0*
+#2067
+b1111110111 1
+1*
+#2068
+0*
+#2069
+b1111111000 1
+1*
+#2070
+0*
+#2071
+b1111111001 1
+1*
+#2072
+0*
+#2073
+b1111111010 1
+1*
+#2074
+0*
+#2075
+b1111111011 1
+1*
+#2076
+0*
+#2077
+b1111111100 1
+1*
+#2078
+0*
+#2079
+b1111111101 1
+1*
+#2080
+0*
+#2081
+b1111111110 1
+1*
+#2082
+0*
+#2083
+b1111111111 1
+1*
+#2084
+0*
+#2085
+b10000000000 1
+1*
+#2086
+0*
+#2087
+b10000000001 1
+1*
+#2088
+0*
+#2089
+b10000000010 1
+1*
+#2090
+0*
+#2091
+b10000000011 1
+1*
+#2092
+0*
+#2093
+b10000000100 1
+1*
+#2094
+0*
+#2095
+b10000000101 1
+1*
+#2096
+0*
+#2097
+b10000000110 1
+1*
+#2098
+0*
+#2099
+b10000000111 1
+1*
+#2100
+0*
+#2101
+b10000001000 1
+1*
+#2102
+0*
+#2103
+b10000001001 1
+1*
+#2104
+0*
+#2105
+b10000001010 1
+1*
+#2106
+0*
+#2107
+b10000001011 1
+1*
+#2108
+0*
+#2109
+b10000001100 1
+1*
+#2110
+0*
+#2111
+b10000001101 1
+1*
+#2112
+0*
+#2113
+b10000001110 1
+1*
+#2114
+0*
+#2115
+b10000001111 1
+1*
+#2116
+0*
+#2117
+b10000010000 1
+1*
+#2118
+0*
+#2119
+b10000010001 1
+1*
+#2120
+0*
+#2121
+b10000010010 1
+1*
+#2122
+0*
+#2123
+b10000010011 1
+1*
+#2124
+0*
+#2125
+b10000010100 1
+1*
+#2126
+0*
+#2127
+b10000010101 1
+1*
+#2128
+0*
+#2129
+b10000010110 1
+1*
+#2130
+0*
+#2131
+b10000010111 1
+1*
+#2132
+0*
+#2133
+b10000011000 1
+1*
+#2134
+0*
+#2135
+b10000011001 1
+1*
+#2136
+0*
+#2137
+b10000011010 1
+1*
+#2138
+0*
+#2139
+b10000011011 1
+1*
+#2140
+0*
+#2141
+b10000011100 1
+1*
+#2142
+0*
+#2143
+b10000011101 1
+1*
+#2144
+0*
+#2145
+b10000011110 1
+1*
+#2146
+0*
+#2147
+b10000011111 1
+1*
+#2148
+0*
+#2149
+b10000100000 1
+1*
+#2150
+0*
+#2151
+b10000100001 1
+1*
+#2152
+0*
+#2153
+b10000100010 1
+1*
+#2154
+0*
+#2155
+b10000100011 1
+1*
+#2156
+0*
+#2157
+b10000100100 1
+1*
+#2158
+0*
+#2159
+b10000100101 1
+1*
+#2160
+0*
+#2161
+b10000100110 1
+1*
+#2162
+0*
+#2163
+b10000100111 1
+1*
+#2164
+0*
+#2165
+b10000101000 1
+1*
+#2166
+0*
+#2167
+b10000101001 1
+1*
+#2168
+0*
+#2169
+b10000101010 1
+1*
+#2170
+0*
+#2171
+b10000101011 1
+1*
+#2172
+0*
+#2173
+b10000101100 1
+1*
+#2174
+0*
+#2175
+b10000101101 1
+1*
+#2176
+0*
+#2177
+b10000101110 1
+1*
+#2178
+0*
+#2179
+b10000101111 1
+1*
+#2180
+0*
+#2181
+b10000110000 1
+1*
+#2182
+0*
+#2183
+b10000110001 1
+1*
+#2184
+0*
+#2185
+b10000110010 1
+1*
+#2186
+0*
+#2187
+b10000110011 1
+1*
+#2188
+0*
+#2189
+b10000110100 1
+1*
+#2190
+0*
+#2191
+b10000110101 1
+1*
+#2192
+0*
+#2193
+b10000110110 1
+1*
+#2194
+0*
+#2195
+b10000110111 1
+1*
+#2196
+0*
+#2197
+b10000111000 1
+1*
+#2198
+0*
+#2199
+b10000111001 1
+1*
+#2200
+0*
+#2201
+b10000111010 1
+1*
+#2202
+0*
+#2203
+b10000111011 1
+1*
+#2204
+0*
+#2205
+b10000111100 1
+1*
+#2206
+0*
+#2207
+b10000111101 1
+1*
+#2208
+0*
+#2209
+b10000111110 1
+1*
+#2210
+0*
+#2211
+b10000111111 1
+1*
+#2212
+0*
+#2213
+b10001000000 1
+1*
+#2214
+0*
+#2215
+b10001000001 1
+1*
+#2216
+0*
+#2217
+b10001000010 1
+1*
+#2218
+0*
+#2219
+b10001000011 1
+1*
+#2220
+0*
+#2221
+b10001000100 1
+1*
+#2222
+0*
+#2223
+b10001000101 1
+1*
+#2224
+0*
+#2225
+b10001000110 1
+1*
+#2226
+0*
+#2227
+b10001000111 1
+1*
+#2228
+0*
+#2229
+b10001001000 1
+1*
+#2230
+0*
+#2231
+b10001001001 1
+1*
+#2232
+0*
+#2233
+b10001001010 1
+1*
+#2234
+0*
+#2235
+b10001001011 1
+1*
+#2236
+0*
+#2237
+b10001001100 1
+1*
+#2238
+0*
+#2239
+b10001001101 1
+1*
+#2240
+0*
+#2241
+b10001001110 1
+1*
+#2242
+0*
+#2243
+b10001001111 1
+1*
+#2244
+0*
+#2245
+b10001010000 1
+1*
+#2246
+0*
+#2247
+b10001010001 1
+1*
+#2248
+0*
+#2249
+b10001010010 1
+1*
+#2250
+0*
+#2251
+b10001010011 1
+1*
+#2252
+0*
+#2253
+b10001010100 1
+1*
+#2254
+0*
+#2255
+b10001010101 1
+1*
+#2256
+0*
+#2257
+b10001010110 1
+1*
+#2258
+0*
+#2259
+b10001010111 1
+1*
+#2260
+0*
+#2261
+b10001011000 1
+1*
+#2262
+0*
+#2263
+b10001011001 1
+1*
+#2264
+0*
+#2265
+b10001011010 1
+1*
+#2266
+0*
+#2267
+b10001011011 1
+1*
+#2268
+0*
+#2269
+b10001011100 1
+1*
+#2270
+0*
+#2271
+b10001011101 1
+1*
+#2272
+0*
+#2273
+b10001011110 1
+1*
+#2274
+0*
+#2275
+b10001011111 1
+1*
+#2276
+0*
+#2277
+b10001100000 1
+1*
+#2278
+0*
+#2279
+b10001100001 1
+1*
+#2280
+0*
+#2281
+b10001100010 1
+1*
+#2282
+0*
+#2283
+b10001100011 1
+1*
+#2284
+0*
+#2285
+b10001100100 1
+1*
+#2286
+0*
+#2287
+b10001100101 1
+1*
+#2288
+0*
+#2289
+b10001100110 1
+1*
+#2290
+0*
+#2291
+b10001100111 1
+1*
+#2292
+0*
+#2293
+b10001101000 1
+1*
+#2294
+0*
+#2295
+b10001101001 1
+1*
+#2296
+0*
+#2297
+b10001101010 1
+1*
+#2298
+0*
+#2299
+b10001101011 1
+1*
+#2300
+0*
+#2301
+b10001101100 1
+1*
+#2302
+0*
+#2303
+b10001101101 1
+1*
+#2304
+0*
+#2305
+b10001101110 1
+1*
+#2306
+0*
+#2307
+b10001101111 1
+1*
+#2308
+0*
+#2309
+b10001110000 1
+1*
+#2310
+0*
+#2311
+b10001110001 1
+1*
+#2312
+0*
+#2313
+b10001110010 1
+1*
+#2314
+0*
+#2315
+b10001110011 1
+1*
+#2316
+0*
+#2317
+b10001110100 1
+1*
+#2318
+0*
+#2319
+b10001110101 1
+1*
+#2320
+0*
+#2321
+b10001110110 1
+1*
+#2322
+0*
+#2323
+b10001110111 1
+1*
+#2324
+0*
+#2325
+b10001111000 1
+1*
+#2326
+0*
+#2327
+b10001111001 1
+1*
+#2328
+0*
+#2329
+b10001111010 1
+1*
+#2330
+0*
+#2331
+b10001111011 1
+1*
+#2332
+0*
+#2333
+b10001111100 1
+1*
+#2334
+0*
+#2335
+b10001111101 1
+1*
+#2336
+0*
+#2337
+b10001111110 1
+1*
+#2338
+0*
+#2339
+b10001111111 1
+1*
+#2340
+0*
+#2341
+b10010000000 1
+1*
+#2342
+0*
+#2343
+b10010000001 1
+1*
+#2344
+0*
+#2345
+b10010000010 1
+1*
+#2346
+0*
+#2347
+b10010000011 1
+1*
+#2348
+0*
+#2349
+b10010000100 1
+1*
+#2350
+0*
+#2351
+b10010000101 1
+1*
+#2352
+0*
+#2353
+b10010000110 1
+1*
+#2354
+0*
+#2355
+b10010000111 1
+1*
+#2356
+0*
+#2357
+b10010001000 1
+1*
+#2358
+0*
+#2359
+b10010001001 1
+1*
+#2360
+0*
+#2361
+b10010001010 1
+1*
+#2362
+0*
+#2363
+b10010001011 1
+1*
+#2364
+0*
+#2365
+b10010001100 1
+1*
+#2366
+0*
+#2367
+b10010001101 1
+1*
+#2368
+0*
+#2369
+b10010001110 1
+1*
+#2370
+0*
+#2371
+b10010001111 1
+1*
+#2372
+0*
+#2373
+b10010010000 1
+1*
+#2374
+0*
+#2375
+b10010010001 1
+1*
+#2376
+0*
+#2377
+b10010010010 1
+1*
+#2378
+0*
+#2379
+b10010010011 1
+1*
+#2380
+0*
+#2381
+b10010010100 1
+1*
+#2382
+0*
+#2383
+b10010010101 1
+1*
+#2384
+0*
+#2385
+b10010010110 1
+1*
+#2386
+0*
+#2387
+b10010010111 1
+1*
+#2388
+0*
+#2389
+b10010011000 1
+1*
+#2390
+0*
+#2391
+b10010011001 1
+1*
+#2392
+0*
+#2393
+b10010011010 1
+1*
+#2394
+0*
+#2395
+b10010011011 1
+1*
+#2396
+0*
+#2397
+b10010011100 1
+1*
+#2398
+0*
+#2399
+b10010011101 1
+1*
+#2400
+0*
+#2401
+b10010011110 1
+1*
+#2402
+0*
+#2403
+b10010011111 1
+1*
+#2404
+0*
+#2405
+b10010100000 1
+1*
+#2406
+0*
+#2407
+b10010100001 1
+1*
+#2408
+0*
+#2409
+b10010100010 1
+1*
+#2410
+0*
+#2411
+b10010100011 1
+1*
+#2412
+0*
+#2413
+b10010100100 1
+1*
+#2414
+0*
+#2415
+b10010100101 1
+1*
+#2416
+0*
+#2417
+b10010100110 1
+1*
+#2418
+0*
+#2419
+b10010100111 1
+1*
+#2420
+0*
+#2421
+b10010101000 1
+1*
+#2422
+0*
+#2423
+b10010101001 1
+1*
+#2424
+0*
+#2425
+b10010101010 1
+1*
+#2426
+0*
+#2427
+b10010101011 1
+1*
+#2428
+0*
+#2429
+b10010101100 1
+1*
+#2430
+0*
+#2431
+b10010101101 1
+1*
+#2432
+0*
+#2433
+b10010101110 1
+1*
+#2434
+0*
+#2435
+b10010101111 1
+1*
+#2436
+0*
+#2437
+b10010110000 1
+1*
+#2438
+0*
+#2439
+b10010110001 1
+1*
+#2440
+0*
+#2441
+b10010110010 1
+1*
+#2442
+0*
+#2443
+b10010110011 1
+1*
+#2444
+0*
+#2445
+b10010110100 1
+1*
+#2446
+0*
+#2447
+b10010110101 1
+1*
+#2448
+0*
+#2449
+b10010110110 1
+1*
+#2450
+0*
+#2451
+b10010110111 1
+1*
+#2452
+0*
+#2453
+b10010111000 1
+1*
+#2454
+0*
+#2455
+b10010111001 1
+1*
+#2456
+0*
+#2457
+b10010111010 1
+1*
+#2458
+0*
+#2459
+b10010111011 1
+1*
+#2460
+0*
+#2461
+b10010111100 1
+1*
+#2462
+0*
+#2463
+b10010111101 1
+1*
+#2464
+0*
+#2465
+b10010111110 1
+1*
+#2466
+0*
+#2467
+b10010111111 1
+1*
+#2468
+0*
+#2469
+b10011000000 1
+1*
+#2470
+0*
+#2471
+b10011000001 1
+1*
+#2472
+0*
+#2473
+b10011000010 1
+1*
+#2474
+0*
+#2475
+b10011000011 1
+1*
+#2476
+0*
+#2477
+b10011000100 1
+1*
+#2478
+0*
+#2479
+b10011000101 1
+1*
+#2480
+0*
+#2481
+b10011000110 1
+1*
+#2482
+0*
+#2483
+b10011000111 1
+1*
+#2484
+0*
+#2485
+b10011001000 1
+1*
+#2486
+0*
+#2487
+b10011001001 1
+1*
+#2488
+0*
+#2489
+b10011001010 1
+1*
+#2490
+0*
+#2491
+b10011001011 1
+1*
+#2492
+0*
+#2493
+b10011001100 1
+1*
+#2494
+0*
+#2495
+b10011001101 1
+1*
+#2496
+0*
+#2497
+b10011001110 1
+1*
+#2498
+0*
+#2499
+b10011001111 1
+1*
+#2500
+0*
+#2501
+b10011010000 1
+1*
+#2502
+0*
+#2503
+b10011010001 1
+1*
+#2504
+0*
+#2505
+b10011010010 1
+1*
+#2506
+0*
+#2507
+b10011010011 1
+1*
+#2508
+0*
+#2509
+b10011010100 1
+1*
+#2510
+0*
+#2511
+b10011010101 1
+1*
+#2512
+0*
+#2513
+b10011010110 1
+1*
+#2514
+0*
+#2515
+b10011010111 1
+1*
+#2516
+0*
+#2517
+b10011011000 1
+1*
+#2518
+0*
+#2519
+b10011011001 1
+1*
+#2520
+0*
+#2521
+b10011011010 1
+1*
+#2522
+0*
+#2523
+b10011011011 1
+1*
+#2524
+0*
+#2525
+b10011011100 1
+1*
+#2526
+0*
+#2527
+b10011011101 1
+1*
+#2528
+0*
+#2529
+b10011011110 1
+1*
+#2530
+0*
+#2531
+b10011011111 1
+1*
+#2532
+0*
+#2533
+b10011100000 1
+1*
+#2534
+0*
+#2535
+b10011100001 1
+1*
+#2536
+0*
+#2537
+b10011100010 1
+1*
+#2538
+0*
+#2539
+b10011100011 1
+1*
+#2540
+0*
+#2541
+b10011100100 1
+1*
+#2542
+0*
+#2543
+b10011100101 1
+1*
+#2544
+0*
+#2545
+b10011100110 1
+1*
+#2546
+0*
+#2547
+b10011100111 1
+1*
+#2548
+0*
+#2549
+b10011101000 1
+1*
+#2550
+0*
+#2551
+b10011101001 1
+1*
+#2552
+0*
+#2553
+b10011101010 1
+1*
+#2554
+0*
+#2555
+b10011101011 1
+1*
+#2556
+0*
+#2557
+b10011101100 1
+1*
+#2558
+0*
+#2559
+b10011101101 1
+1*
+#2560
+0*
+#2561
+b10011101110 1
+1*
+#2562
+0*
+#2563
+b10011101111 1
+1*
+#2564
+0*
+#2565
+b10011110000 1
+1*
+#2566
+0*
+#2567
+b10011110001 1
+1*
+#2568
+0*
+#2569
+b10011110010 1
+1*
+#2570
+0*
+#2571
+b10011110011 1
+1*
+#2572
+0*
+#2573
+b10011110100 1
+1*
+#2574
+0*
+#2575
+b10011110101 1
+1*
+#2576
+0*
+#2577
+b10011110110 1
+1*
+#2578
+0*
+#2579
+b10011110111 1
+1*
+#2580
+0*
+#2581
+b10011111000 1
+1*
+#2582
+0*
+#2583
+b10011111001 1
+1*
+#2584
+0*
+#2585
+b10011111010 1
+1*
+#2586
+0*
+#2587
+b10011111011 1
+1*
+#2588
+0*
+#2589
+b10011111100 1
+1*
+#2590
+0*
+#2591
+b10011111101 1
+1*
+#2592
+0*
+#2593
+b10011111110 1
+1*
+#2594
+0*
+#2595
+b10011111111 1
+1*
+#2596
+0*
+#2597
+b10100000000 1
+1*
+#2598
+0*
+#2599
+b10100000001 1
+1*
+#2600
+0*
+#2601
+b10100000010 1
+1*
+#2602
+0*
+#2603
+b10100000011 1
+1*
+#2604
+0*
+#2605
+b10100000100 1
+1*
+#2606
+0*
+#2607
+b10100000101 1
+1*
+#2608
+0*
+#2609
+b10100000110 1
+1*
+#2610
+0*
+#2611
+b10100000111 1
+1*
+#2612
+0*
+#2613
+b10100001000 1
+1*
+#2614
+0*
+#2615
+b10100001001 1
+1*
+#2616
+0*
+#2617
+b10100001010 1
+1*
+#2618
+0*
+#2619
+b10100001011 1
+1*
+#2620
+0*
+#2621
+b10100001100 1
+1*
+#2622
+0*
+#2623
+b10100001101 1
+1*
+#2624
+0*
+#2625
+b10100001110 1
+1*
+#2626
+0*
+#2627
+b10100001111 1
+1*
+#2628
+0*
+#2629
+b10100010000 1
+1*
+#2630
+0*
+#2631
+b10100010001 1
+1*
+#2632
+0*
+#2633
+b10100010010 1
+1*
+#2634
+0*
+#2635
+b10100010011 1
+1*
+#2636
+0*
+#2637
+b10100010100 1
+1*
+#2638
+0*
+#2639
+b10100010101 1
+1*
+#2640
+0*
+#2641
+b10100010110 1
+1*
+#2642
+0*
+#2643
+b10100010111 1
+1*
+#2644
+0*
+#2645
+b10100011000 1
+1*
+#2646
+0*
+#2647
+b10100011001 1
+1*
+#2648
+0*
+#2649
+b10100011010 1
+1*
+#2650
+0*
+#2651
+b10100011011 1
+1*
+#2652
+0*
+#2653
+b10100011100 1
+1*
+#2654
+0*
+#2655
+b10100011101 1
+1*
+#2656
+0*
+#2657
+b10100011110 1
+1*
+#2658
+0*
+#2659
+b10100011111 1
+1*
+#2660
+0*
+#2661
+b10100100000 1
+1*
+#2662
+0*
+#2663
+b10100100001 1
+1*
+#2664
+0*
+#2665
+b10100100010 1
+1*
+#2666
+0*
+#2667
+b10100100011 1
+1*
+#2668
+0*
+#2669
+b10100100100 1
+1*
+#2670
+0*
+#2671
+b10100100101 1
+1*
+#2672
+0*
+#2673
+b10100100110 1
+1*
+#2674
+0*
+#2675
+b10100100111 1
+1*
+#2676
+0*
+#2677
+b10100101000 1
+1*
+#2678
+0*
+#2679
+b10100101001 1
+1*
+#2680
+0*
+#2681
+b10100101010 1
+1*
+#2682
+0*
+#2683
+b10100101011 1
+1*
+#2684
+0*
+#2685
+b10100101100 1
+1*
+#2686
+0*
+#2687
+b10100101101 1
+1*
+#2688
+0*
+#2689
+b10100101110 1
+1*
+#2690
+0*
+#2691
+b10100101111 1
+1*
+#2692
+0*
+#2693
+b10100110000 1
+1*
+#2694
+0*
+#2695
+b10100110001 1
+1*
+#2696
+0*
+#2697
+b10100110010 1
+1*
+#2698
+0*
+#2699
+b10100110011 1
+1*
+#2700
+0*
+#2701
+b10100110100 1
+1*
+#2702
+0*
+#2703
+b10100110101 1
+1*
+#2704
+0*
+#2705
+b10100110110 1
+1*
+#2706
+0*
+#2707
+b10100110111 1
+1*
+#2708
+0*
+#2709
+b10100111000 1
+1*
+#2710
+0*
+#2711
+b10100111001 1
+1*
+#2712
+0*
+#2713
+b10100111010 1
+1*
+#2714
+0*
+#2715
+b10100111011 1
+1*
+#2716
+0*
+#2717
+b10100111100 1
+1*
+#2718
+0*
+#2719
+b10100111101 1
+1*
+#2720
+0*
+#2721
+b10100111110 1
+1*
+#2722
+0*
+#2723
+b10100111111 1
+1*
+#2724
+0*
+#2725
+b10101000000 1
+1*
+#2726
+0*
+#2727
+b10101000001 1
+1*
+#2728
+0*
+#2729
+b10101000010 1
+1*
+#2730
+0*
+#2731
+b10101000011 1
+1*
+#2732
+0*
+#2733
+b10101000100 1
+1*
+#2734
+0*
+#2735
+b10101000101 1
+1*
+#2736
+0*
+#2737
+b10101000110 1
+1*
+#2738
+0*
+#2739
+b10101000111 1
+1*
+#2740
+0*
+#2741
+b10101001000 1
+1*
+#2742
+0*
+#2743
+b10101001001 1
+1*
+#2744
+0*
+#2745
+b10101001010 1
+1*
+#2746
+0*
+#2747
+b10101001011 1
+1*
+#2748
+0*
+#2749
+b10101001100 1
+1*
+#2750
+0*
+#2751
+b10101001101 1
+1*
+#2752
+0*
+#2753
+b10101001110 1
+1*
+#2754
+0*
+#2755
+b10101001111 1
+1*
+#2756
+0*
+#2757
+b10101010000 1
+1*
+#2758
+0*
+#2759
+b10101010001 1
+1*
+#2760
+0*
+#2761
+b10101010010 1
+1*
+#2762
+0*
+#2763
+b10101010011 1
+1*
+#2764
+0*
+#2765
+b10101010100 1
+1*
+#2766
+0*
+#2767
+b10101010101 1
+1*
+#2768
+0*
+#2769
+b10101010110 1
+1*
+#2770
+0*
+#2771
+b10101010111 1
+1*
+#2772
+0*
+#2773
+b10101011000 1
+1*
+#2774
+0*
+#2775
+b10101011001 1
+1*
+#2776
+0*
+#2777
+b10101011010 1
+1*
+#2778
+0*
+#2779
+b10101011011 1
+1*
+#2780
+0*
+#2781
+b10101011100 1
+1*
+#2782
+0*
+#2783
+b10101011101 1
+1*
+#2784
+0*
+#2785
+b10101011110 1
+1*
+#2786
+0*
+#2787
+b10101011111 1
+1*
+#2788
+0*
+#2789
+b10101100000 1
+1*
+#2790
+0*
+#2791
+b10101100001 1
+1*
+#2792
+0*
+#2793
+b10101100010 1
+1*
+#2794
+0*
+#2795
+b10101100011 1
+1*
+#2796
+0*
+#2797
+b10101100100 1
+1*
+#2798
+0*
+#2799
+b10101100101 1
+1*
+#2800
+0*
+#2801
+b10101100110 1
+1*
+#2802
+0*
+#2803
+b10101100111 1
+1*
+#2804
+0*
+#2805
+b10101101000 1
+1*
+#2806
+0*
+#2807
+b10101101001 1
+1*
+#2808
+0*
+#2809
+b10101101010 1
+1*
+#2810
+0*
+#2811
+b10101101011 1
+1*
+#2812
+0*
+#2813
+b10101101100 1
+1*
+#2814
+0*
+#2815
+b10101101101 1
+1*
+#2816
+0*
+#2817
+b10101101110 1
+1*
+#2818
+0*
+#2819
+b10101101111 1
+1*
+#2820
+0*
+#2821
+b10101110000 1
+1*
+#2822
+0*
+#2823
+b10101110001 1
+1*
+#2824
+0*
+#2825
+b10101110010 1
+1*
+#2826
+0*
+#2827
+b10101110011 1
+1*
+#2828
+0*
+#2829
+b10101110100 1
+1*
+#2830
+0*
+#2831
+b10101110101 1
+1*
+#2832
+0*
+#2833
+b10101110110 1
+1*
+#2834
+0*
+#2835
+b10101110111 1
+1*
+#2836
+0*
+#2837
+b10101111000 1
+1*
+#2838
+0*
+#2839
+b10101111001 1
+1*
+#2840
+0*
+#2841
+b10101111010 1
+1*
+#2842
+0*
+#2843
+b10101111011 1
+1*
+#2844
+0*
+#2845
+b10101111100 1
+1*
+#2846
+0*
+#2847
+b10101111101 1
+1*
+#2848
+0*
+#2849
+b10101111110 1
+1*
+#2850
+0*
+#2851
+b10101111111 1
+1*
+#2852
+0*
+#2853
+b10110000000 1
+1*
+#2854
+0*
+#2855
+b10110000001 1
+1*
+#2856
+0*
+#2857
+b10110000010 1
+1*
+#2858
+0*
+#2859
+b10110000011 1
+1*
+#2860
+0*
+#2861
+b10110000100 1
+1*
+#2862
+0*
+#2863
+b10110000101 1
+1*
+#2864
+0*
+#2865
+b10110000110 1
+1*
+#2866
+0*
+#2867
+b10110000111 1
+1*
+#2868
+0*
+#2869
+b10110001000 1
+1*
+#2870
+0*
+#2871
+b10110001001 1
+1*
+#2872
+0*
+#2873
+b10110001010 1
+1*
+#2874
+0*
+#2875
+b10110001011 1
+1*
+#2876
+0*
+#2877
+b10110001100 1
+1*
+#2878
+0*
+#2879
+b10110001101 1
+1*
+#2880
+0*
+#2881
+b10110001110 1
+1*
+#2882
+0*
+#2883
+b10110001111 1
+1*
+#2884
+0*
+#2885
+b10110010000 1
+1*
+#2886
+0*
+#2887
+b10110010001 1
+1*
+#2888
+0*
+#2889
+b10110010010 1
+1*
+#2890
+0*
+#2891
+b10110010011 1
+1*
+#2892
+0*
+#2893
+b10110010100 1
+1*
+#2894
+0*
+#2895
+b10110010101 1
+1*
+#2896
+0*
+#2897
+b10110010110 1
+1*
+#2898
+0*
+#2899
+b10110010111 1
+1*
+#2900
+0*
+#2901
+b10110011000 1
+1*
+#2902
+0*
+#2903
+b10110011001 1
+1*
+#2904
+0*
+#2905
+b10110011010 1
+1*
+#2906
+0*
+#2907
+b10110011011 1
+1*
+#2908
+0*
+#2909
+b10110011100 1
+1*
+#2910
+0*
+#2911
+b10110011101 1
+1*
+#2912
+0*
+#2913
+b10110011110 1
+1*
+#2914
+0*
+#2915
+b10110011111 1
+1*
+#2916
+0*
+#2917
+b10110100000 1
+1*
+#2918
+0*
+#2919
+b10110100001 1
+1*
+#2920
+0*
+#2921
+b10110100010 1
+1*
+#2922
+0*
+#2923
+b10110100011 1
+1*
+#2924
+0*
+#2925
+b10110100100 1
+1*
+#2926
+0*
+#2927
+b10110100101 1
+1*
+#2928
+0*
+#2929
+b10110100110 1
+1*
+#2930
+0*
+#2931
+b10110100111 1
+1*
+#2932
+0*
+#2933
+b10110101000 1
+1*
+#2934
+0*
+#2935
+b10110101001 1
+1*
+#2936
+0*
+#2937
+b10110101010 1
+1*
+#2938
+0*
+#2939
+b10110101011 1
+1*
+#2940
+0*
+#2941
+b10110101100 1
+1*
+#2942
+0*
+#2943
+b10110101101 1
+1*
+#2944
+0*
+#2945
+b10110101110 1
+1*
+#2946
+0*
+#2947
+b10110101111 1
+1*
+#2948
+0*
+#2949
+b10110110000 1
+1*
+#2950
+0*
+#2951
+b10110110001 1
+1*
+#2952
+0*
+#2953
+b10110110010 1
+1*
+#2954
+0*
+#2955
+b10110110011 1
+1*
+#2956
+0*
+#2957
+b10110110100 1
+1*
+#2958
+0*
+#2959
+b10110110101 1
+1*
+#2960
+0*
+#2961
+b10110110110 1
+1*
+#2962
+0*
+#2963
+b10110110111 1
+1*
+#2964
+0*
+#2965
+b10110111000 1
+1*
+#2966
+0*
+#2967
+b10110111001 1
+1*
+#2968
+0*
+#2969
+b10110111010 1
+1*
+#2970
+0*
+#2971
+b10110111011 1
+1*
+#2972
+0*
+#2973
+b10110111100 1
+1*
+#2974
+0*
+#2975
+b10110111101 1
+1*
+#2976
+0*
+#2977
+b10110111110 1
+1*
+#2978
+0*
+#2979
+b10110111111 1
+1*
+#2980
+0*
+#2981
+b10111000000 1
+1*
+#2982
+0*
+#2983
+b10111000001 1
+1*
+#2984
+0*
+#2985
+b10111000010 1
+1*
+#2986
+0*
+#2987
+b10111000011 1
+1*
+#2988
+0*
+#2989
+b10111000100 1
+1*
+#2990
+0*
+#2991
+b10111000101 1
+1*
+#2992
+0*
+#2993
+b10111000110 1
+1*
+#2994
+0*
+#2995
+b10111000111 1
+1*
+#2996
+0*
+#2997
+b10111001000 1
+1*
+#2998
+0*
+#2999
+b10111001001 1
+1*
+#3000
+0*
+#3001
+b10111001010 1
+1*
+#3002
+0*
+#3003
+b10111001011 1
+1*
+#3004
+0*
+#3005
+b10111001100 1
+1*
+#3006
+0*
+#3007
+b10111001101 1
+1*
+#3008
+0*
+#3009
+b10111001110 1
+1*
+#3010
+0*
+#3011
+b10111001111 1
+1*
+#3012
+0*
+#3013
+b10111010000 1
+1*
+#3014
+0*
+#3015
+b10111010001 1
+1*
+#3016
+0*
+#3017
+b10111010010 1
+1*
+#3018
+0*
+#3019
+b10111010011 1
+1*
+#3020
+0*
+#3021
+b10111010100 1
+1*
+#3022
+0*
+#3023
+b10111010101 1
+1*
+#3024
+0*
+#3025
+b10111010110 1
+1*
+#3026
+0*
+#3027
+b10111010111 1
+1*
+#3028
+0*
+#3029
+b10111011000 1
+1*
+#3030
+0*
+#3031
+b10111011001 1
+1*
+#3032
+0*
+#3033
+b10111011010 1
+1*
+#3034
+0*
+#3035
+b10111011011 1
+1*
+#3036
+0*
+#3037
+b10111011100 1
+1*
+#3038
+0*
+#3039
+b10111011101 1
+1*
+#3040
+0*
+#3041
+b10111011110 1
+1*
+#3042
+0*
+#3043
+b10111011111 1
+1*
+#3044
+0*
+#3045
+b10111100000 1
+1*
+#3046
+0*
+#3047
+b10111100001 1
+1*
+#3048
+0*
+#3049
+b10111100010 1
+1*
+#3050
+0*
+#3051
+b10111100011 1
+1*
+#3052
+0*
+#3053
+b10111100100 1
+1*
+#3054
+0*
+#3055
+b10111100101 1
+1*
+#3056
+0*
+#3057
+b10111100110 1
+1*
+#3058
+0*
+#3059
+b10111100111 1
+1*
+#3060
+0*
+#3061
+b10111101000 1
+1*
+#3062
+0*
+#3063
+b10111101001 1
+1*
+#3064
+0*
+#3065
+b10111101010 1
+1*
+#3066
+0*
+#3067
+b10111101011 1
+1*
+#3068
+0*
+#3069
+b10111101100 1
+1*
+#3070
+0*
+#3071
+b10111101101 1
+1*
+#3072
+0*
+#3073
+b10111101110 1
+1*
+#3074
+0*
+#3075
+b10111101111 1
+1*
+#3076
+0*
+#3077
+b10111110000 1
+1*
+#3078
+0*
+#3079
+b10111110001 1
+1*
+#3080
+0*
+#3081
+b10111110010 1
+1*
+#3082
+0*
+#3083
+b10111110011 1
+1*
+#3084
+0*
+#3085
+b10111110100 1
+1*
+#3086
+0*
+#3087
+b10111110101 1
+1*
+#3088
+0*
+#3089
+b10111110110 1
+1*
+#3090
+0*
+#3091
+b10111110111 1
+1*
+#3092
+0*
+#3093
+b10111111000 1
+1*
+#3094
+0*
+#3095
+b10111111001 1
+1*
+#3096
+0*
+#3097
+b10111111010 1
+1*
+#3098
+0*
+#3099
+b10111111011 1
+1*
+#3100
+0*
+#3101
+b10111111100 1
+1*
+#3102
+0*
+#3103
+b10111111101 1
+1*
+#3104
+0*
+#3105
+b10111111110 1
+1*
+#3106
+0*
+#3107
+b10111111111 1
+1*
+#3108
+0*
+#3109
+b11000000000 1
+1*
+#3110
+0*
+#3111
+b11000000001 1
+1*
+#3112
+0*
+#3113
+b11000000010 1
+1*
+#3114
+0*
+#3115
+b11000000011 1
+1*
+#3116
+0*
+#3117
+b11000000100 1
+1*
+#3118
+0*
+#3119
+b11000000101 1
+1*
+#3120
+0*
+#3121
+b11000000110 1
+1*
+#3122
+0*
+#3123
+b11000000111 1
+1*
+#3124
+0*
+#3125
+b11000001000 1
+1*
+#3126
+0*
+#3127
+b11000001001 1
+1*
+#3128
+0*
+#3129
+b11000001010 1
+1*
+#3130
+0*
+#3131
+b11000001011 1
+1*
+#3132
+0*
+#3133
+b11000001100 1
+1*
+#3134
+0*
+#3135
+b11000001101 1
+1*
+#3136
+0*
+#3137
+b11000001110 1
+1*
+#3138
+0*
+#3139
+b11000001111 1
+1*
+#3140
+0*
+#3141
+b11000010000 1
+1*
+#3142
+0*
+#3143
+b11000010001 1
+1*
+#3144
+0*
+#3145
+b11000010010 1
+1*
+#3146
+0*
+#3147
+b11000010011 1
+1*
+#3148
+0*
+#3149
+b11000010100 1
+1*
+#3150
+0*
+#3151
+b11000010101 1
+1*
+#3152
+0*
+#3153
+b11000010110 1
+1*
+#3154
+0*
+#3155
+b11000010111 1
+1*
+#3156
+0*
+#3157
+b11000011000 1
+1*
+#3158
+0*
+#3159
+b11000011001 1
+1*
+#3160
+0*
+#3161
+b11000011010 1
+1*
+#3162
+0*
+#3163
+b11000011011 1
+1*
+#3164
+0*
+#3165
+b11000011100 1
+1*
+#3166
+0*
+#3167
+b11000011101 1
+1*
+#3168
+0*
+#3169
+b11000011110 1
+1*
+#3170
+0*
+#3171
+b11000011111 1
+1*
+#3172
+0*
+#3173
+b11000100000 1
+1*
+#3174
+0*
+#3175
+b11000100001 1
+1*
+#3176
+0*
+#3177
+b11000100010 1
+1*
+#3178
+0*
+#3179
+b11000100011 1
+1*
+#3180
+0*
+#3181
+b11000100100 1
+1*
+#3182
+0*
+#3183
+b11000100101 1
+1*
+#3184
+0*
+#3185
+b11000100110 1
+1*
+#3186
+0*
+#3187
+b11000100111 1
+1*
+#3188
+0*
+#3189
+b11000101000 1
+1*
+#3190
+0*
+#3191
+b11000101001 1
+1*
+#3192
+0*
+#3193
+b11000101010 1
+1*
+#3194
+0*
+#3195
+b11000101011 1
+1*
+#3196
+0*
+#3197
+b11000101100 1
+1*
+#3198
+0*
+#3199
+b11000101101 1
+1*
+#3200
+0*
+#3201
+b11000101110 1
+1*
+#3202
+0*
+#3203
+b11000101111 1
+1*
+#3204
+0*
+#3205
+b11000110000 1
+1*
+#3206
+0*
+#3207
+b11000110001 1
+1*
+#3208
+0*
+#3209
+b11000110010 1
+1*
+#3210
+0*
+#3211
+b11000110011 1
+1*
+#3212
+0*
+#3213
+b11000110100 1
+1*
+#3214
+0*
+#3215
+b11000110101 1
+1*
+#3216
+0*
+#3217
+b11000110110 1
+1*
+#3218
+0*
+#3219
+b11000110111 1
+1*
+#3220
+0*
+#3221
+b11000111000 1
+1*
+#3222
+0*
+#3223
+b11000111001 1
+1*
+#3224
+0*
+#3225
+b11000111010 1
+1*
+#3226
+0*
+#3227
+b11000111011 1
+1*
+#3228
+0*
+#3229
+b11000111100 1
+1*
+#3230
+0*
+#3231
+b11000111101 1
+1*
+#3232
+0*
+#3233
+b11000111110 1
+1*
+#3234
+0*
+#3235
+b11000111111 1
+1*
+#3236
+0*
+#3237
+b11001000000 1
+1*
+#3238
+0*
+#3239
+b11001000001 1
+1*
+#3240
+0*
+#3241
+b11001000010 1
+1*
+#3242
+0*
+#3243
+b11001000011 1
+1*
+#3244
+0*
+#3245
+b11001000100 1
+1*
+#3246
+0*
+#3247
+b11001000101 1
+1*
+#3248
+0*
+#3249
+b11001000110 1
+1*
+#3250
+0*
+#3251
+b11001000111 1
+1*
+#3252
+0*
+#3253
+b11001001000 1
+1*
+#3254
+0*
+#3255
+b11001001001 1
+1*
+#3256
+0*
+#3257
+b11001001010 1
+1*
+#3258
+0*
+#3259
+b11001001011 1
+1*
+#3260
+0*
+#3261
+b11001001100 1
+1*
+#3262
+0*
+#3263
+b11001001101 1
+1*
+#3264
+0*
+#3265
+b11001001110 1
+1*
+#3266
+0*
+#3267
+b11001001111 1
+1*
+#3268
+0*
+#3269
+b11001010000 1
+1*
+#3270
+0*
+#3271
+b11001010001 1
+1*
+#3272
+0*
+#3273
+b11001010010 1
+1*
+#3274
+0*
+#3275
+b11001010011 1
+1*
+#3276
+0*
+#3277
+b11001010100 1
+1*
+#3278
+0*
+#3279
+b11001010101 1
+1*
+#3280
+0*
+#3281
+b11001010110 1
+1*
+#3282
+0*
+#3283
+b11001010111 1
+1*
+#3284
+0*
+#3285
+b11001011000 1
+1*
+#3286
+0*
+#3287
+b11001011001 1
+1*
+#3288
+0*
+#3289
+b11001011010 1
+1*
+#3290
+0*
+#3291
+b11001011011 1
+1*
+#3292
+0*
+#3293
+b11001011100 1
+1*
+#3294
+0*
+#3295
+b11001011101 1
+1*
+#3296
+0*
+#3297
+b11001011110 1
+1*
+#3298
+0*
+#3299
+b11001011111 1
+1*
+#3300
+0*
+#3301
+b11001100000 1
+1*
+#3302
+0*
+#3303
+b11001100001 1
+1*
+#3304
+0*
+#3305
+b11001100010 1
+1*
+#3306
+0*
+#3307
+b11001100011 1
+1*
+#3308
+0*
+#3309
+b11001100100 1
+1*
+#3310
+0*
+#3311
+b11001100101 1
+1*
+#3312
+0*
+#3313
+b11001100110 1
+1*
+#3314
+0*
+#3315
+b11001100111 1
+1*
+#3316
+0*
+#3317
+b11001101000 1
+1*
+#3318
+0*
+#3319
+b11001101001 1
+1*
+#3320
+0*
+#3321
+b11001101010 1
+1*
+#3322
+0*
+#3323
+b11001101011 1
+1*
+#3324
+0*
+#3325
+b11001101100 1
+1*
+#3326
+0*
+#3327
+b11001101101 1
+1*
+#3328
+0*
+#3329
+b11001101110 1
+1*
+#3330
+0*
+#3331
+b11001101111 1
+1*
+#3332
+0*
+#3333
+b11001110000 1
+1*
+#3334
+0*
+#3335
+b11001110001 1
+1*
+#3336
+0*
+#3337
+b11001110010 1
+1*
+#3338
+0*
+#3339
+b11001110011 1
+1*
+#3340
+0*
+#3341
+b11001110100 1
+1*
+#3342
+0*
+#3343
+b11001110101 1
+1*
+#3344
+0*
+#3345
+b11001110110 1
+1*
+#3346
+0*
+#3347
+b11001110111 1
+1*
+#3348
+0*
+#3349
+b11001111000 1
+1*
+#3350
+0*
+#3351
+b11001111001 1
+1*
+#3352
+0*
+#3353
+b11001111010 1
+1*
+#3354
+0*
+#3355
+b11001111011 1
+1*
+#3356
+0*
+#3357
+b11001111100 1
+1*
+#3358
+0*
+#3359
+b11001111101 1
+1*
+#3360
+0*
+#3361
+b11001111110 1
+1*
+#3362
+0*
+#3363
+b11001111111 1
+1*
+#3364
+0*
+#3365
+b11010000000 1
+1*
+#3366
+0*
+#3367
+b11010000001 1
+1*
+#3368
+0*
+#3369
+b11010000010 1
+1*
+#3370
+0*
+#3371
+b11010000011 1
+1*
+#3372
+0*
+#3373
+b11010000100 1
+1*
+#3374
+0*
+#3375
+b11010000101 1
+1*
+#3376
+0*
+#3377
+b11010000110 1
+1*
+#3378
+0*
+#3379
+b11010000111 1
+1*
+#3380
+0*
+#3381
+b11010001000 1
+1*
+#3382
+0*
+#3383
+b11010001001 1
+1*
+#3384
+0*
+#3385
+b11010001010 1
+1*
+#3386
+0*
+#3387
+b11010001011 1
+1*
+#3388
+0*
+#3389
+b11010001100 1
+1*
+#3390
+0*
+#3391
+b11010001101 1
+1*
+#3392
+0*
+#3393
+b11010001110 1
+1*
+#3394
+0*
+#3395
+b11010001111 1
+1*
+#3396
+0*
+#3397
+b11010010000 1
+1*
+#3398
+0*
+#3399
+b11010010001 1
+1*
+#3400
+0*
+#3401
+b11010010010 1
+1*
+#3402
+0*
+#3403
+b11010010011 1
+1*
+#3404
+0*
+#3405
+b11010010100 1
+1*
+#3406
+0*
+#3407
+b11010010101 1
+1*
+#3408
+0*
+#3409
+b11010010110 1
+1*
+#3410
+0*
+#3411
+b11010010111 1
+1*
+#3412
+0*
+#3413
+b11010011000 1
+1*
+#3414
+0*
+#3415
+b11010011001 1
+1*
+#3416
+0*
+#3417
+b11010011010 1
+1*
+#3418
+0*
+#3419
+b11010011011 1
+1*
+#3420
+0*
+#3421
+b11010011100 1
+1*
+#3422
+0*
+#3423
+b11010011101 1
+1*
+#3424
+0*
+#3425
+b11010011110 1
+1*
+#3426
+0*
+#3427
+b11010011111 1
+1*
+#3428
+0*
+#3429
+b11010100000 1
+1*
+#3430
+0*
+#3431
+b11010100001 1
+1*
+#3432
+0*
+#3433
+b11010100010 1
+1*
+#3434
+0*
+#3435
+b11010100011 1
+1*
+#3436
+0*
+#3437
+b11010100100 1
+1*
+#3438
+0*
+#3439
+b11010100101 1
+1*
+#3440
+0*
+#3441
+b11010100110 1
+1*
+#3442
+0*
+#3443
+b11010100111 1
+1*
+#3444
+0*
+#3445
+b11010101000 1
+1*
+#3446
+0*
+#3447
+b11010101001 1
+1*
+#3448
+0*
+#3449
+b11010101010 1
+1*
+#3450
+0*
+#3451
+b11010101011 1
+1*
+#3452
+0*
+#3453
+b11010101100 1
+1*
+#3454
+0*
+#3455
+b11010101101 1
+1*
+#3456
+0*
+#3457
+b11010101110 1
+1*
+#3458
+0*
+#3459
+b11010101111 1
+1*
+#3460
+0*
+#3461
+b11010110000 1
+1*
+#3462
+0*
+#3463
+b11010110001 1
+1*
+#3464
+0*
+#3465
+b11010110010 1
+1*
+#3466
+0*
+#3467
+b11010110011 1
+1*
+#3468
+0*
+#3469
+b11010110100 1
+1*
+#3470
+0*
+#3471
+b11010110101 1
+1*
+#3472
+0*
+#3473
+b11010110110 1
+1*
+#3474
+0*
+#3475
+b11010110111 1
+1*
+#3476
+0*
+#3477
+b11010111000 1
+1*
+#3478
+0*
+#3479
+b11010111001 1
+1*
+#3480
+0*
+#3481
+b11010111010 1
+1*
+#3482
+0*
+#3483
+b11010111011 1
+1*
+#3484
+0*
+#3485
+b11010111100 1
+1*
+#3486
+0*
+#3487
+b11010111101 1
+1*
+#3488
+0*
+#3489
+b11010111110 1
+1*
+#3490
+0*
+#3491
+b11010111111 1
+1*
+#3492
+0*
+#3493
+b11011000000 1
+1*
+#3494
+0*
+#3495
+b11011000001 1
+1*
+#3496
+0*
+#3497
+b11011000010 1
+1*
+#3498
+0*
+#3499
+b11011000011 1
+1*
+#3500
+0*
+#3501
+b11011000100 1
+1*
+#3502
+0*
+#3503
+b11011000101 1
+1*
+#3504
+0*
+#3505
+b11011000110 1
+1*
+#3506
+0*
+#3507
+b11011000111 1
+1*
+#3508
+0*
+#3509
+b11011001000 1
+1*
+#3510
+0*
+#3511
+b11011001001 1
+1*
+#3512
+0*
+#3513
+b11011001010 1
+1*
+#3514
+0*
+#3515
+b11011001011 1
+1*
+#3516
+0*
+#3517
+b11011001100 1
+1*
+#3518
+0*
+#3519
+b11011001101 1
+1*
+#3520
+0*
+#3521
+b11011001110 1
+1*
+#3522
+0*
+#3523
+b11011001111 1
+1*
+#3524
+0*
+#3525
+b11011010000 1
+1*
+#3526
+0*
+#3527
+b11011010001 1
+1*
+#3528
+0*
+#3529
+b11011010010 1
+1*
+#3530
+0*
+#3531
+b11011010011 1
+1*
+#3532
+0*
+#3533
+b11011010100 1
+1*
+#3534
+0*
+#3535
+b11011010101 1
+1*
+#3536
+0*
+#3537
+b11011010110 1
+1*
+#3538
+0*
+#3539
+b11011010111 1
+1*
+#3540
+0*
+#3541
+b11011011000 1
+1*
+#3542
+0*
+#3543
+b11011011001 1
+1*
+#3544
+0*
+#3545
+b11011011010 1
+1*
+#3546
+0*
+#3547
+b11011011011 1
+1*
+#3548
+0*
+#3549
+b11011011100 1
+1*
+#3550
+0*
+#3551
+b11011011101 1
+1*
+#3552
+0*
+#3553
+b11011011110 1
+1*
+#3554
+0*
+#3555
+b11011011111 1
+1*
+#3556
+0*
+#3557
+b11011100000 1
+1*
+#3558
+0*
+#3559
+b11011100001 1
+1*
+#3560
+0*
+#3561
+b11011100010 1
+1*
+#3562
+0*
+#3563
+b11011100011 1
+1*
+#3564
+0*
+#3565
+b11011100100 1
+1*
+#3566
+0*
+#3567
+b11011100101 1
+1*
+#3568
+0*
+#3569
+b11011100110 1
+1*
+#3570
+0*
+#3571
+b11011100111 1
+1*
+#3572
+0*
+#3573
+b11011101000 1
+1*
+#3574
+0*
+#3575
+b11011101001 1
+1*
+#3576
+0*
+#3577
+b11011101010 1
+1*
+#3578
+0*
+#3579
+b11011101011 1
+1*
+#3580
+0*
+#3581
+b11011101100 1
+1*
+#3582
+0*
+#3583
+b11011101101 1
+1*
+#3584
+0*
+#3585
+b11011101110 1
+1*
+#3586
+0*
+#3587
+b11011101111 1
+1*
+#3588
+0*
+#3589
+b11011110000 1
+1*
+#3590
+0*
+#3591
+b11011110001 1
+1*
+#3592
+0*
+#3593
+b11011110010 1
+1*
+#3594
+0*
+#3595
+b11011110011 1
+1*
+#3596
+0*
+#3597
+b11011110100 1
+1*
+#3598
+0*
+#3599
+b11011110101 1
+1*
+#3600
+0*
+#3601
+b11011110110 1
+1*
+#3602
+0*
+#3603
+b11011110111 1
+1*
+#3604
+0*
+#3605
+b11011111000 1
+1*
+#3606
+0*
+#3607
+b11011111001 1
+1*
+#3608
+0*
+#3609
+b11011111010 1
+1*
+#3610
+0*
+#3611
+b11011111011 1
+1*
+#3612
+0*
+#3613
+b11011111100 1
+1*
+#3614
+0*
+#3615
+b11011111101 1
+1*
+#3616
+0*
+#3617
+b11011111110 1
+1*
+#3618
+0*
+#3619
+b11011111111 1
+1*
+#3620
+0*
+#3621
+b11100000000 1
+1*
+#3622
+0*
+#3623
+b11100000001 1
+1*
+#3624
+0*
+#3625
+b11100000010 1
+1*
+#3626
+0*
+#3627
+b11100000011 1
+1*
+#3628
+0*
+#3629
+b11100000100 1
+1*
+#3630
+0*
+#3631
+b11100000101 1
+1*
+#3632
+0*
+#3633
+b11100000110 1
+1*
+#3634
+0*
+#3635
+b11100000111 1
+1*
+#3636
+0*
+#3637
+b11100001000 1
+1*
+#3638
+0*
+#3639
+b11100001001 1
+1*
+#3640
+0*
+#3641
+b11100001010 1
+1*
+#3642
+0*
+#3643
+b11100001011 1
+1*
+#3644
+0*
+#3645
+b11100001100 1
+1*
+#3646
+0*
+#3647
+b11100001101 1
+1*
+#3648
+0*
+#3649
+b11100001110 1
+1*
+#3650
+0*
+#3651
+b11100001111 1
+1*
+#3652
+0*
+#3653
+b11100010000 1
+1*
+#3654
+0*
+#3655
+b11100010001 1
+1*
+#3656
+0*
+#3657
+b11100010010 1
+1*
+#3658
+0*
+#3659
+b11100010011 1
+1*
+#3660
+0*
+#3661
+b11100010100 1
+1*
+#3662
+0*
+#3663
+b11100010101 1
+1*
+#3664
+0*
+#3665
+b11100010110 1
+1*
+#3666
+0*
+#3667
+b11100010111 1
+1*
+#3668
+0*
+#3669
+b11100011000 1
+1*
+#3670
+0*
+#3671
+b11100011001 1
+1*
+#3672
+0*
+#3673
+b11100011010 1
+1*
+#3674
+0*
+#3675
+b11100011011 1
+1*
+#3676
+0*
+#3677
+b11100011100 1
+1*
+#3678
+0*
+#3679
+b11100011101 1
+1*
+#3680
+0*
+#3681
+b11100011110 1
+1*
+#3682
+0*
+#3683
+b11100011111 1
+1*
+#3684
+0*
+#3685
+b11100100000 1
+1*
+#3686
+0*
+#3687
+b11100100001 1
+1*
+#3688
+0*
+#3689
+b11100100010 1
+1*
+#3690
+0*
+#3691
+b11100100011 1
+1*
+#3692
+0*
+#3693
+b11100100100 1
+1*
+#3694
+0*
+#3695
+b11100100101 1
+1*
+#3696
+0*
+#3697
+b11100100110 1
+1*
+#3698
+0*
+#3699
+b11100100111 1
+1*
+#3700
+0*
+#3701
+b11100101000 1
+1*
+#3702
+0*
+#3703
+b11100101001 1
+1*
+#3704
+0*
+#3705
+b11100101010 1
+1*
+#3706
+0*
+#3707
+b11100101011 1
+1*
+#3708
+0*
+#3709
+b11100101100 1
+1*
+#3710
+0*
+#3711
+b11100101101 1
+1*
+#3712
+0*
+#3713
+b11100101110 1
+1*
+#3714
+0*
+#3715
+b11100101111 1
+1*
+#3716
+0*
+#3717
+b11100110000 1
+1*
+#3718
+0*
+#3719
+b11100110001 1
+1*
+#3720
+0*
+#3721
+b11100110010 1
+1*
+#3722
+0*
+#3723
+b11100110011 1
+1*
+#3724
+0*
+#3725
+b11100110100 1
+1*
+#3726
+0*
+#3727
+b11100110101 1
+1*
+#3728
+0*
+#3729
+b11100110110 1
+1*
+#3730
+0*
+#3731
+b11100110111 1
+1*
+#3732
+0*
+#3733
+b11100111000 1
+1*
+#3734
+0*
+#3735
+b11100111001 1
+1*
+#3736
+0*
+#3737
+b11100111010 1
+1*
+#3738
+0*
+#3739
+b11100111011 1
+1*
+#3740
+0*
+#3741
+b11100111100 1
+1*
+#3742
+0*
+#3743
+b11100111101 1
+1*
+#3744
+0*
+#3745
+b11100111110 1
+1*
+#3746
+0*
+#3747
+b11100111111 1
+1*
+#3748
+0*
+#3749
+b11101000000 1
+1*
+#3750
+0*
+#3751
+b11101000001 1
+1*
+#3752
+0*
+#3753
+b11101000010 1
+1*
+#3754
+0*
+#3755
+b11101000011 1
+1*
+#3756
+0*
+#3757
+b11101000100 1
+1*
+#3758
+0*
+#3759
+b11101000101 1
+1*
+#3760
+0*
+#3761
+b11101000110 1
+1*
+#3762
+0*
+#3763
+b11101000111 1
+1*
+#3764
+0*
+#3765
+b11101001000 1
+1*
+#3766
+0*
+#3767
+b11101001001 1
+1*
+#3768
+0*
+#3769
+b11101001010 1
+1*
+#3770
+0*
+#3771
+b11101001011 1
+1*
+#3772
+0*
+#3773
+b11101001100 1
+1*
+#3774
+0*
+#3775
+b11101001101 1
+1*
+#3776
+0*
+#3777
+b11101001110 1
+1*
+#3778
+0*
+#3779
+b11101001111 1
+1*
+#3780
+0*
+#3781
+b11101010000 1
+1*
+#3782
+0*
+#3783
+b11101010001 1
+1*
+#3784
+0*
+#3785
+b11101010010 1
+1*
+#3786
+0*
+#3787
+b11101010011 1
+1*
+#3788
+0*
+#3789
+b11101010100 1
+1*
+#3790
+0*
+#3791
+b11101010101 1
+1*
+#3792
+0*
+#3793
+b11101010110 1
+1*
+#3794
+0*
+#3795
+b11101010111 1
+1*
+#3796
+0*
+#3797
+b11101011000 1
+1*
+#3798
+0*
+#3799
+b11101011001 1
+1*
+#3800
+0*
+#3801
+b11101011010 1
+1*
+#3802
+0*
+#3803
+b11101011011 1
+1*
+#3804
+0*
+#3805
+b11101011100 1
+1*
+#3806
+0*
+#3807
+b11101011101 1
+1*
+#3808
+0*
+#3809
+b11101011110 1
+1*
+#3810
+0*
+#3811
+b11101011111 1
+1*
+#3812
+0*
+#3813
+b11101100000 1
+1*
+#3814
+0*
+#3815
+b11101100001 1
+1*
+#3816
+0*
+#3817
+b11101100010 1
+1*
+#3818
+0*
+#3819
+b11101100011 1
+1*
+#3820
+0*
+#3821
+b11101100100 1
+1*
+#3822
+0*
+#3823
+b11101100101 1
+1*
+#3824
+0*
+#3825
+b11101100110 1
+1*
+#3826
+0*
+#3827
+b11101100111 1
+1*
+#3828
+0*
+#3829
+b11101101000 1
+1*
+#3830
+0*
+#3831
+b11101101001 1
+1*
+#3832
+0*
+#3833
+b11101101010 1
+1*
+#3834
+0*
+#3835
+b11101101011 1
+1*
+#3836
+0*
+#3837
+b11101101100 1
+1*
+#3838
+0*
+#3839
+b11101101101 1
+1*
+#3840
+0*
+#3841
+b11101101110 1
+1*
+#3842
+0*
+#3843
+b11101101111 1
+1*
+#3844
+0*
+#3845
+b11101110000 1
+1*
+#3846
+0*
+#3847
+b11101110001 1
+1*
+#3848
+0*
+#3849
+b11101110010 1
+1*
+#3850
+0*
+#3851
+b11101110011 1
+1*
+#3852
+0*
+#3853
+b11101110100 1
+1*
+#3854
+0*
+#3855
+b11101110101 1
+1*
+#3856
+0*
+#3857
+b11101110110 1
+1*
+#3858
+0*
+#3859
+b11101110111 1
+1*
+#3860
+0*
+#3861
+b11101111000 1
+1*
+#3862
+0*
+#3863
+b11101111001 1
+1*
+#3864
+0*
+#3865
+b11101111010 1
+1*
+#3866
+0*
+#3867
+b11101111011 1
+1*
+#3868
+0*
+#3869
+b11101111100 1
+1*
+#3870
+0*
+#3871
+b11101111101 1
+1*
+#3872
+0*
+#3873
+b11101111110 1
+1*
+#3874
+0*
+#3875
+b11101111111 1
+1*
+#3876
+0*
+#3877
+b11110000000 1
+1*
+#3878
+0*
+#3879
+b11110000001 1
+1*
+#3880
+0*
+#3881
+b11110000010 1
+1*
+#3882
+0*
+#3883
+b11110000011 1
+1*
+#3884
+0*
+#3885
+b11110000100 1
+1*
+#3886
+0*
+#3887
+b11110000101 1
+1*
+#3888
+0*
+#3889
+b11110000110 1
+1*
+#3890
+0*
+#3891
+b11110000111 1
+1*
+#3892
+0*
+#3893
+b11110001000 1
+1*
+#3894
+0*
+#3895
+b11110001001 1
+1*
+#3896
+0*
+#3897
+b11110001010 1
+1*
+#3898
+0*
+#3899
+b11110001011 1
+1*
+#3900
+0*
+#3901
+b11110001100 1
+1*
+#3902
+0*
+#3903
+b11110001101 1
+1*
+#3904
+0*
+#3905
+b11110001110 1
+1*
+#3906
+0*
+#3907
+b11110001111 1
+1*
+#3908
+0*
+#3909
+b11110010000 1
+1*
+#3910
+0*
+#3911
+b11110010001 1
+1*
+#3912
+0*
+#3913
+b11110010010 1
+1*
+#3914
+0*
+#3915
+b11110010011 1
+1*
+#3916
+0*
+#3917
+b11110010100 1
+1*
+#3918
+0*
+#3919
+b11110010101 1
+1*
+#3920
+0*
+#3921
+b11110010110 1
+1*
+#3922
+0*
+#3923
+b11110010111 1
+1*
+#3924
+0*
+#3925
+b11110011000 1
+1*
+#3926
+0*
+#3927
+b11110011001 1
+1*
+#3928
+0*
+#3929
+b11110011010 1
+1*
+#3930
+0*
+#3931
+b11110011011 1
+1*
+#3932
+0*
+#3933
+b11110011100 1
+1*
+#3934
+0*
+#3935
+b11110011101 1
+1*
+#3936
+0*
+#3937
+b11110011110 1
+1*
+#3938
+0*
+#3939
+b11110011111 1
+1*
+#3940
+0*
+#3941
+b11110100000 1
+1*
+#3942
+0*
+#3943
+b11110100001 1
+1*
+#3944
+0*
+#3945
+b11110100010 1
+1*
+#3946
+0*
+#3947
+b11110100011 1
+1*
+#3948
+0*
+#3949
+b11110100100 1
+1*
+#3950
+0*
+#3951
+b11110100101 1
+1*
+#3952
+0*
+#3953
+b11110100110 1
+1*
+#3954
+0*
+#3955
+b11110100111 1
+1*
+#3956
+0*
+#3957
+b11110101000 1
+1*
+#3958
+0*
+#3959
+b11110101001 1
+1*
+#3960
+0*
+#3961
+b11110101010 1
+1*
+#3962
+0*
+#3963
+b11110101011 1
+1*
+#3964
+0*
+#3965
+b11110101100 1
+1*
+#3966
+0*
+#3967
+b11110101101 1
+1*
+#3968
+0*
+#3969
+b11110101110 1
+1*
+#3970
+0*
+#3971
+b11110101111 1
+1*
+#3972
+0*
+#3973
+b11110110000 1
+1*
+#3974
+0*
+#3975
+b11110110001 1
+1*
+#3976
+0*
+#3977
+b11110110010 1
+1*
+#3978
+0*
+#3979
+b11110110011 1
+1*
+#3980
+0*
+#3981
+b11110110100 1
+1*
+#3982
+0*
+#3983
+b11110110101 1
+1*
+#3984
+0*
+#3985
+b11110110110 1
+1*
+#3986
+0*
+#3987
+b11110110111 1
+1*
+#3988
+0*
+#3989
+b11110111000 1
+1*
+#3990
+0*
+#3991
+b11110111001 1
+1*
+#3992
+0*
+#3993
+b11110111010 1
+1*
+#3994
+0*
+#3995
+b11110111011 1
+1*
+#3996
+0*
+#3997
+b11110111100 1
+1*
+#3998
+0*
+#3999
+b11110111101 1
+1*
+#4000
+0*
+#4001
+b11110111110 1
+1*
+#4002
+0*
+#4003
+b11110111111 1
+1*
+#4004
+0*
+#4005
+b11111000000 1
+1*
+#4006
+0*
+#4007
+b11111000001 1
+1*
+#4008
+0*
+#4009
+b11111000010 1
+1*
+#4010
+0*
+#4011
+b11111000011 1
+1*
+#4012
+0*
+#4013
+b11111000100 1
+1*
+#4014
+0*
+#4015
+b11111000101 1
+1*
+#4016
+0*
+#4017
+b11111000110 1
+1*
+#4018
+0*
+#4019
+b11111000111 1
+1*
+#4020
+0*
+#4021
+b11111001000 1
+1*
+#4022
+0*
+#4023
+b11111001001 1
+1*
+#4024
+0*
+#4025
+b11111001010 1
+1*
+#4026
+0*
+#4027
+b11111001011 1
+1*
+#4028
+0*
+#4029
+b11111001100 1
+1*
+#4030
+0*
+#4031
+b11111001101 1
+1*
+#4032
+0*
+#4033
+b11111001110 1
+1*
+#4034
+0*
+#4035
+b11111001111 1
+1*
+#4036
+0*
+#4037
+b11111010000 1
+1*
+#4038
+0*
+#4039
+b11111010001 1
+1*
+#4040
+0*
+#4041
+b11111010010 1
+1*
+#4042
+0*
+#4043
+b11111010011 1
+1*
+#4044
+0*
+#4045
+b11111010100 1
+1*
+#4046
+0*
+#4047
+b11111010101 1
+1*
+#4048
+0*
+#4049
+b11111010110 1
+1*
+#4050
+0*
+#4051
+b11111010111 1
+1*
+#4052
+0*
+#4053
+b11111011000 1
+1*
+#4054
+0*
+#4055
+b11111011001 1
+1*
+#4056
+0*
+#4057
+b11111011010 1
+1*
+#4058
+0*
+#4059
+b11111011011 1
+1*
+#4060
+0*
+#4061
+b11111011100 1
+1*
+#4062
+0*
+#4063
+b11111011101 1
+1*
+#4064
+0*
+#4065
+b11111011110 1
+1*
+#4066
+0*
+#4067
+b11111011111 1
+1*
+#4068
+0*
+#4069
+b11111100000 1
+1*
+#4070
+0*
